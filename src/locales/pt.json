@@ -1,0 +1,43 @@
+{
+  "select-language": "Selecione um idioma",
+  "auth": {
+    "title": "Join Us Now.",
+    "subtitle": "Comece criando sua conta",
+    "label": {
+      "promotional": "Receba ofertas promocionais"
+    },
+    "action": {
+      "login": "eu já tenho uma conta",
+      "signup": "Inscrever-se"
+    },
+    "placeholder": {
+      "name": "Name",
+      "email": "Endereço de e-mail",
+      "password": "Senha",
+      "passwordCheck": "Verificação senha"
+    },
+    "success": {
+      "success": "Bem vindo ao sistema"
+    },
+    "errors": {
+      "name": {
+        "required": "Seu primeiro nome é obrigatório"
+      },
+      "email": {
+        "required": "Digite seu e-mail, será necessário fazer login",
+        "format": "Pro favor entre com um e-mail válido"
+      },
+      "password": {
+        "required": "Digite sua senha com pelo menos 8 caracteres, será necessário fazer o login",
+        "length": "A senha deve conter pelo menos 8 caracteres"
+      },
+      "passwordCheck": {
+        "required": "Por favor, confirme sua senha",
+        "match": "A senha não corresponde"
+      },
+      "message": {
+        "fail": "Desculpe, você deve fazer login para acessar esta seção"
+      }
+    }
+  }
+}
