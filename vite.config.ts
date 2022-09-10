@@ -107,7 +107,7 @@ export default defineConfig({
      * Don't forget to remove this section when you replaced assets with yours
      */
     rollupOptions: {
-      external: [/\/demo\/.*/],
+      external: ['https://vuero.cssninja.io/demo/$1', /.*/],
     },
   },
   plugins: [
