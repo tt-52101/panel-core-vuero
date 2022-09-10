@@ -196,7 +196,7 @@ const onSubmit = () => {
 
                   <div>
                     <Tippy class="has-help-cursor" interactive placement="top-start">
-                      <VAvatar picture="/demo/avatars/18.jpg" />
+                      <VAvatar picture="/vdemo/avatars/18.jpg" />
                       <template #content>
                         <UserPopoverContent :user="popovers.user18" />
                       </template>
@@ -214,7 +214,7 @@ const onSubmit = () => {
 
                   <div>
                     <Tippy class="has-help-cursor" interactive placement="top-start">
-                      <VAvatar picture="/demo/avatars/7.jpg" />
+                      <VAvatar picture="/vdemo/avatars/7.jpg" />
                       <template #content>
                         <UserPopoverContent :user="popovers.user7" />
                       </template>
@@ -347,22 +347,22 @@ const onSubmit = () => {
                       {
                         name: 'Joshua S.',
                         value: 'joshua',
-                        icon: '/demo/avatars/12.jpg',
+                        icon: '/vdemo/avatars/12.jpg',
                       },
                       {
                         name: 'Melany W.',
                         value: 'melany',
-                        icon: '/demo/avatars/25.jpg',
+                        icon: '/vdemo/avatars/25.jpg',
                       },
                       {
                         name: 'Alice C.',
                         value: 'alice',
-                        icon: '/demo/avatars/7.jpg',
+                        icon: '/vdemo/avatars/7.jpg',
                       },
                       {
                         name: 'Esteban C.',
                         value: 'esteban',
-                        icon: '/demo/avatars/18.jpg',
+                        icon: '/vdemo/avatars/18.jpg',
                       },
                     ]"
                   >

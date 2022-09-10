@@ -251,7 +251,7 @@ useHead({
                 <!--Contact-->
                 <div class="contact-block">
                   <img
-                    src="/demo/avatars/7.jpg"
+                    src="/vdemo/avatars/7.jpg"
                     alt=""
                     @error.once="(event) => onceImageErrored(event, '150x150')"
                   />
@@ -263,7 +263,7 @@ useHead({
                 <!--Contact-->
                 <div class="contact-block">
                   <img
-                    src="/demo/avatars/25.jpg"
+                    src="/vdemo/avatars/25.jpg"
                     alt=""
                     @error.once="(event) => onceImageErrored(event, '150x150')"
                   />
@@ -275,7 +275,7 @@ useHead({
                 <!--Contact-->
                 <div class="contact-block">
                   <img
-                    src="/demo/avatars/18.jpg"
+                    src="/vdemo/avatars/18.jpg"
                     alt=""
                     @error.once="(event) => onceImageErrored(event, '150x150')"
                   />
@@ -287,7 +287,7 @@ useHead({
                 <!--Contact-->
                 <div class="contact-block">
                   <img
-                    src="/demo/avatars/32.jpg"
+                    src="/vdemo/avatars/32.jpg"
                     alt=""
                     @error.once="(event) => onceImageErrored(event, '150x150')"
                   />
@@ -299,7 +299,7 @@ useHead({
                 <!--Contact-->
                 <div class="contact-block">
                   <img
-                    src="/demo/avatars/38.jpg"
+                    src="/vdemo/avatars/38.jpg"
                     alt=""
                     @error.once="(event) => onceImageErrored(event, '150x150')"
                   />

@@ -115,7 +115,7 @@
           <!--Colored CTA-->
           <div class="dashboard-cta">
             <div class="dashboard-cta-img">
-              <img alt="" src="/demo/photos/soccer/player.png" />
+              <img alt="" src="/vdemo/photos/soccer/player.png" />
             </div>
             <h2 class="dashboard-cta-title">Win awesome prizes in our contest</h2>
             <p class="dashboard-cta-text">

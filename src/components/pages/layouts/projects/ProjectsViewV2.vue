@@ -97,7 +97,7 @@
             <div class="foot-block">
               <h4 class="heading">Developers</h4>
               <div class="developers">
-                <VAvatar size="small" picture="/demo/avatars/7.jpg" />
+                <VAvatar size="small" picture="/vdemo/avatars/7.jpg" />
                 <VAvatar size="small" picture="/images/avatars/svg/vuero-1.svg" />
                 <VAvatar size="small" color="danger" initials="DC" />
               </div>
@@ -139,7 +139,7 @@
             <div class="foot-block">
               <h4 class="heading">Developers</h4>
               <div class="developers">
-                <VAvatar size="small" picture="/demo/avatars/25.jpg" />
+                <VAvatar size="small" picture="/vdemo/avatars/25.jpg" />
               </div>
             </div>
             <div class="foot-block">
@@ -178,8 +178,8 @@
             <div class="foot-block">
               <h4 class="heading">Developers</h4>
               <div class="developers">
-                <VAvatar size="small" picture="/demo/avatars/7.jpg" />
-                <VAvatar size="small" picture="/demo/avatars/23.jpg" />
+                <VAvatar size="small" picture="/vdemo/avatars/7.jpg" />
+                <VAvatar size="small" picture="/vdemo/avatars/23.jpg" />
               </div>
             </div>
             <div class="foot-block">
@@ -220,7 +220,7 @@
             <div class="foot-block">
               <h4 class="heading">Developers</h4>
               <div class="developers">
-                <VAvatar size="small" picture="/demo/avatars/11.jpg" />
+                <VAvatar size="small" picture="/vdemo/avatars/11.jpg" />
                 <VAvatar size="small" color="h-orange" initials="AG" />
               </div>
             </div>
@@ -261,7 +261,7 @@
             <div class="foot-block">
               <h4 class="heading">Developers</h4>
               <div class="developers">
-                <VAvatar size="small" picture="/demo/avatars/12.jpg" />
+                <VAvatar size="small" picture="/vdemo/avatars/12.jpg" />
               </div>
             </div>
             <div class="foot-block">
@@ -300,9 +300,9 @@
             <div class="foot-block">
               <h4 class="heading">Developers</h4>
               <div class="developers">
-                <VAvatar size="small" picture="/demo/avatars/24.jpg" />
-                <VAvatar size="small" picture="/demo/avatars/18.jpg" />
-                <VAvatar size="small" picture="/demo/avatars/16.jpg" />
+                <VAvatar size="small" picture="/vdemo/avatars/24.jpg" />
+                <VAvatar size="small" picture="/vdemo/avatars/18.jpg" />
+                <VAvatar size="small" picture="/vdemo/avatars/16.jpg" />
               </div>
             </div>
             <div class="foot-block">
@@ -384,7 +384,7 @@
             <div class="foot-block">
               <h4 class="heading">Developers</h4>
               <div class="developers">
-                <VAvatar size="small" picture="/demo/avatars/25.jpg" />
+                <VAvatar size="small" picture="/vdemo/avatars/25.jpg" />
                 <VAvatar size="small" color="info" initials="ET" />
               </div>
             </div>

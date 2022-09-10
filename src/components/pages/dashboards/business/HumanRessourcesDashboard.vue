@@ -60,9 +60,9 @@ const columns = {
                   mortes.
                 </p>
                 <div class="candidates">
-                  <VAvatar picture="/demo/avatars/13.jpg" squared />
-                  <VAvatar picture="/demo/avatars/32.jpg" squared />
-                  <VAvatar picture="/demo/avatars/9.jpg" squared />
+                  <VAvatar picture="/vdemo/avatars/13.jpg" squared />
+                  <VAvatar picture="/vdemo/avatars/32.jpg" squared />
+                  <VAvatar picture="/vdemo/avatars/9.jpg" squared />
                   <button>
                     <i aria-hidden="true" class="iconify" data-icon="feather:plus"></i>
                   </button>
@@ -167,7 +167,7 @@ const columns = {
                   <div class="grid-item">
                     <UserCardDropdown />
                     <VAvatar
-                      picture="/demo/avatars/13.jpg"
+                      picture="/vdemo/avatars/13.jpg"
                       badge="/images/icons/stacks/illustrator.svg"
                       size="large"
                     />
@@ -183,7 +183,7 @@ const columns = {
                   <div class="grid-item">
                     <UserCardDropdown />
                     <VAvatar
-                      picture="/demo/avatars/37.jpg"
+                      picture="/vdemo/avatars/37.jpg"
                       badge="/images/icons/flags/france.svg"
                       size="large"
                     />
@@ -199,7 +199,7 @@ const columns = {
                   <div class="grid-item">
                     <UserCardDropdown />
                     <VAvatar
-                      picture="/demo/avatars/25.jpg"
+                      picture="/vdemo/avatars/25.jpg"
                       badge="/images/icons/stacks/js.svg"
                       size="large"
                     />

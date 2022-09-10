@@ -9,7 +9,7 @@ export const tasks = reactive([
     participants: [
       {
         color: 'warning',
-        picture: '/demo/avatars/7.jpg',
+        picture: '/vdemo/avatars/7.jpg',
       },
     ],
   },
@@ -33,15 +33,15 @@ export const tasks = reactive([
     participants: [
       {
         color: 'danger',
-        picture: '/demo/avatars/12.jpg',
+        picture: '/vdemo/avatars/12.jpg',
       },
       {
         color: undefined,
-        picture: '/demo/avatars/26.jpg',
+        picture: '/vdemo/avatars/26.jpg',
       },
       {
         color: undefined,
-        picture: '/demo/avatars/19.jpg',
+        picture: '/vdemo/avatars/19.jpg',
       },
     ],
   },
@@ -53,7 +53,7 @@ export const tasks = reactive([
     participants: [
       {
         color: 'success',
-        picture: '/demo/avatars/13.jpg',
+        picture: '/vdemo/avatars/13.jpg',
       },
     ],
   },
@@ -65,7 +65,7 @@ export const tasks = reactive([
     participants: [
       {
         color: 'info',
-        picture: '/demo/avatars/16.jpg',
+        picture: '/vdemo/avatars/16.jpg',
       },
     ],
   },
@@ -89,7 +89,7 @@ export const tasks = reactive([
     participants: [
       {
         color: 'success',
-        picture: '/demo/avatars/12.jpg',
+        picture: '/vdemo/avatars/12.jpg',
       },
     ],
   },
@@ -101,10 +101,10 @@ export const tasks = reactive([
     participants: [
       {
         color: 'danger',
-        picture: '/demo/avatars/18.jpg',
+        picture: '/vdemo/avatars/18.jpg',
       },
       {
-        picture: '/demo/avatars/9.jpg',
+        picture: '/vdemo/avatars/9.jpg',
       },
     ],
   },
@@ -116,7 +116,7 @@ export const tasks = reactive([
     participants: [
       {
         color: 'primary',
-        picture: '/demo/avatars/13.jpg',
+        picture: '/vdemo/avatars/13.jpg',
       },
     ],
   },
@@ -128,7 +128,7 @@ export const tasks = reactive([
     participants: [
       {
         color: 'warning',
-        picture: '/demo/avatars/16.jpg',
+        picture: '/vdemo/avatars/16.jpg',
       },
     ],
   },

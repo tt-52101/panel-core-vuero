@@ -245,7 +245,7 @@ const userStack = userData.userStack as VAvatarProps[]
         <a href="#" class="dashboard-card is-interview">
           <VBlock title="Jonathan K." subtitle="08:00 - 09:00" center>
             <template #icon>
-              <VAvatar picture="/demo/avatars/32.jpg" />
+              <VAvatar picture="/vdemo/avatars/32.jpg" />
             </template>
             <template #action>
               <i aria-hidden="true" class="iconify" data-icon="feather:chevron-right"></i>
@@ -255,7 +255,7 @@ const userStack = userData.userStack as VAvatarProps[]
         <a href="#" class="dashboard-card is-interview">
           <VBlock title="Greta K." subtitle="10:30 - 11:00" center>
             <template #icon>
-              <VAvatar picture="/demo/avatars/19.jpg" />
+              <VAvatar picture="/vdemo/avatars/19.jpg" />
             </template>
             <template #action>
               <i aria-hidden="true" class="iconify" data-icon="feather:chevron-right"></i>
@@ -265,7 +265,7 @@ const userStack = userData.userStack as VAvatarProps[]
         <a href="#" class="dashboard-card is-interview">
           <VBlock title="Joshua S." subtitle="02:30 - 03:00" center>
             <template #icon>
-              <VAvatar picture="/demo/avatars/12.jpg" />
+              <VAvatar picture="/vdemo/avatars/12.jpg" />
             </template>
             <template #action>
               <i aria-hidden="true" class="iconify" data-icon="feather:chevron-right"></i>

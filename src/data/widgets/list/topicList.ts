@@ -8,15 +8,15 @@ export const topicList = [
     users: [
       {
         id: 2,
-        picture: '/demo/avatars/12.jpg',
+        picture: '/vdemo/avatars/12.jpg',
       },
       {
         id: 5,
-        picture: '/demo/avatars/22.jpg',
+        picture: '/vdemo/avatars/22.jpg',
       },
       {
         id: 11,
-        picture: '/demo/avatars/40.jpg',
+        picture: '/vdemo/avatars/40.jpg',
       },
       {
         id: 100,
@@ -49,7 +49,7 @@ export const topicList = [
     users: [
       {
         id: 1,
-        picture: '/demo/avatars/9.jpg',
+        picture: '/vdemo/avatars/9.jpg',
       },
       {
         id: 3,
@@ -66,11 +66,11 @@ export const topicList = [
     users: [
       {
         id: 0,
-        picture: '/demo/avatars/7.jpg',
+        picture: '/vdemo/avatars/7.jpg',
       },
       {
         id: 21,
-        picture: '/demo/avatars/23.jpg',
+        picture: '/vdemo/avatars/23.jpg',
       },
     ],
   },
@@ -83,11 +83,11 @@ export const topicList = [
     users: [
       {
         id: 7,
-        picture: '/demo/avatars/18.jpg',
+        picture: '/vdemo/avatars/18.jpg',
       },
       {
         id: 6,
-        picture: '/demo/avatars/13.jpg',
+        picture: '/vdemo/avatars/13.jpg',
       },
       {
         id: 3,
@@ -124,11 +124,11 @@ export const topicList = [
     users: [
       {
         id: 28,
-        picture: '/demo/avatars/32.jpg',
+        picture: '/vdemo/avatars/32.jpg',
       },
       {
         id: 20,
-        picture: '/demo/avatars/22.jpg',
+        picture: '/vdemo/avatars/22.jpg',
       },
     ],
   },
@@ -141,15 +141,15 @@ export const topicList = [
     users: [
       {
         id: 10,
-        picture: '/demo/avatars/27.jpg',
+        picture: '/vdemo/avatars/27.jpg',
       },
       {
         id: 16,
-        picture: '/demo/avatars/16.jpg',
+        picture: '/vdemo/avatars/16.jpg',
       },
       {
         id: 25,
-        picture: '/demo/avatars/29.jpg',
+        picture: '/vdemo/avatars/29.jpg',
       },
       {
         id: 100,

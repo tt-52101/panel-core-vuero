@@ -52,7 +52,7 @@ useHead({
             <VBlock title="Anna B." subtitle="UX Designer" center>
               <template #icon>
                 <VAvatar
-                  picture="/demo/avatars/19.jpg"
+                  picture="/vdemo/avatars/19.jpg"
                   badge="/images/icons/flags/germany.svg"
                 />
               </template>
@@ -100,7 +100,7 @@ useHead({
             <VBlock title="Anna B." subtitle="UX Designer" center>
               <template #icon>
                 <VAvatar
-                  picture="/demo/avatars/19.jpg"
+                  picture="/vdemo/avatars/19.jpg"
                   badge="/images/icons/flags/germany.svg"
                 />
               </template>
@@ -131,7 +131,7 @@ useHead({
             <VBlock title="Anna B." subtitle="UX Designer" center>
               <template #icon>
                 <VAvatar
-                  picture="/demo/avatars/19.jpg"
+                  picture="/vdemo/avatars/19.jpg"
                   badge="/images/icons/flags/germany.svg"
                 />
               </template>

@@ -207,7 +207,7 @@ import {
           <div class="card-image">
             <figure class="image is-4by3">
               <img
-                src="/demo/photos/30.jpg"
+                src="/vdemo/photos/30.jpg"
                 alt=""
                 @error.once="(event) => onceImageErrored(event, '1280x960')"
               />
@@ -217,28 +217,28 @@ import {
             <div class="post-group">
               <a>
                 <img
-                  src="/demo/photos/33.jpg"
+                  src="/vdemo/photos/33.jpg"
                   alt=""
                   @error.once="(event) => onceImageErrored(event, '1280x960')"
                 />
               </a>
               <a>
                 <img
-                  src="/demo/photos/34.jpg"
+                  src="/vdemo/photos/34.jpg"
                   alt=""
                   @error.once="(event) => onceImageErrored(event, '1280x960')"
                 />
               </a>
               <a>
                 <img
-                  src="/demo/photos/35.jpeg"
+                  src="/vdemo/photos/35.jpeg"
                   alt=""
                   @error.once="(event) => onceImageErrored(event, '1280x960')"
                 />
               </a>
               <a>
                 <img
-                  src="/demo/photos/36.jpg"
+                  src="/vdemo/photos/36.jpg"
                   alt=""
                   @error.once="(event) => onceImageErrored(event, '1280x960')"
                 />
@@ -263,7 +263,7 @@ import {
           <div class="card-image">
             <figure class="image is-4by3">
               <img
-                src="/demo/photos/31.png"
+                src="/vdemo/photos/31.png"
                 alt=""
                 @error.once="(event) => onceImageErrored(event, '1280x960')"
               />
@@ -273,28 +273,28 @@ import {
             <div class="post-group">
               <a>
                 <img
-                  src="/demo/photos/33.jpg"
+                  src="/vdemo/photos/33.jpg"
                   alt=""
                   @error.once="(event) => onceImageErrored(event, '1280x960')"
                 />
               </a>
               <a>
                 <img
-                  src="/demo/photos/34.jpg"
+                  src="/vdemo/photos/34.jpg"
                   alt=""
                   @error.once="(event) => onceImageErrored(event, '1280x960')"
                 />
               </a>
               <a>
                 <img
-                  src="/demo/photos/35.jpeg"
+                  src="/vdemo/photos/35.jpeg"
                   alt=""
                   @error.once="(event) => onceImageErrored(event, '1280x960')"
                 />
               </a>
               <a>
                 <img
-                  src="/demo/photos/36.jpg"
+                  src="/vdemo/photos/36.jpg"
                   alt=""
                   @error.once="(event) => onceImageErrored(event, '1280x960')"
                 />
@@ -319,7 +319,7 @@ import {
           <div class="card-image">
             <figure class="image is-4by3">
               <img
-                src="/demo/photos/32.jpg"
+                src="/vdemo/photos/32.jpg"
                 alt=""
                 @error.once="(event) => onceImageErrored(event, '1280x960')"
               />
@@ -329,28 +329,28 @@ import {
             <div class="post-group">
               <a>
                 <img
-                  src="/demo/photos/33.jpg"
+                  src="/vdemo/photos/33.jpg"
                   alt=""
                   @error.once="(event) => onceImageErrored(event, '1280x960')"
                 />
               </a>
               <a>
                 <img
-                  src="/demo/photos/34.jpg"
+                  src="/vdemo/photos/34.jpg"
                   alt=""
                   @error.once="(event) => onceImageErrored(event, '1280x960')"
                 />
               </a>
               <a>
                 <img
-                  src="/demo/photos/35.jpeg"
+                  src="/vdemo/photos/35.jpeg"
                   alt=""
                   @error.once="(event) => onceImageErrored(event, '1280x960')"
                 />
               </a>
               <a>
                 <img
-                  src="/demo/photos/36.jpg"
+                  src="/vdemo/photos/36.jpg"
                   alt=""
                   @error.once="(event) => onceImageErrored(event, '1280x960')"
                 />

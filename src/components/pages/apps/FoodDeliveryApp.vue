@@ -255,21 +255,21 @@ onUnmounted(() => {
           </VPlaceholderSection>
           <div class="cart-items has-slimscroll is-hidden">
             <div class="cart-item">
-              <VAvatar picture="/demo/photos/food/1.jpg" size="medium" squared />
+              <VAvatar picture="/vdemo/photos/food/1.jpg" size="medium" squared />
               <div class="meta">
                 <span class="text"> Double XL Burger </span>
                 <span class="price">$15.50 x 1</span>
               </div>
             </div>
             <div class="cart-item">
-              <VAvatar picture="/demo/photos/food/2.jpg" size="medium" squared />
+              <VAvatar picture="/vdemo/photos/food/2.jpg" size="medium" squared />
               <div class="meta">
                 <span class="text"> Cherry Cupcakes </span>
                 <span class="price">$8.00 x 3</span>
               </div>
             </div>
             <div class="cart-item">
-              <VAvatar picture="/demo/photos/food/3.jpg" size="medium" squared />
+              <VAvatar picture="/vdemo/photos/food/3.jpg" size="medium" squared />
               <div class="meta">
                 <span class="text"> Extra Fries </span>
                 <span class="price">$7.90 x 2</span>
