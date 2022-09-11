@@ -1,7 +1,7 @@
 export const userStack1 = [
   {
     id: 0,
-    picture: '/vdemo/avatars/7.jpg',
+    picture: '/vuero/avatars/7.jpg',
     initials: 'AC',
     color: 'info',
   },
@@ -19,7 +19,7 @@ export const userStack1 = [
   },
   {
     id: 3,
-    picture: '/vdemo/avatars/5.jpg',
+    picture: '/vuero/avatars/5.jpg',
     initials: 'ML',
     color: 'danger',
   },
@@ -31,13 +31,13 @@ export const userStack1 = [
   },
   {
     id: 5,
-    picture: '/vdemo/avatars/12.jpg',
+    picture: '/vuero/avatars/12.jpg',
     initials: 'VD',
     color: 'warning',
   },
   {
     id: 6,
-    picture: '/vdemo/avatars/39.jpg',
+    picture: '/vuero/avatars/39.jpg',
     initials: 'GE',
     color: 'info',
   },
@@ -46,25 +46,25 @@ export const userStack1 = [
 export const userStack2 = [
   {
     id: 5,
-    picture: '/vdemo/avatars/12.jpg',
+    picture: '/vuero/avatars/12.jpg',
     initials: 'JS',
     color: 'info',
   },
   {
     id: 22,
-    picture: '/vdemo/avatars/22.jpg',
+    picture: '/vuero/avatars/22.jpg',
     initials: 'JH',
     color: 'info',
   },
   {
     id: 40,
-    picture: '/vdemo/avatars/40.jpg',
+    picture: '/vuero/avatars/40.jpg',
     initials: 'SM',
     color: 'h-purple',
   },
   {
     id: 3,
-    picture: '/vdemo/avatars/5.jpg',
+    picture: '/vuero/avatars/5.jpg',
     initials: 'ML',
     color: 'danger',
   },
@@ -76,19 +76,19 @@ export const userStack2 = [
   },
   {
     id: 5,
-    picture: '/vdemo/avatars/12.jpg',
+    picture: '/vuero/avatars/12.jpg',
     initials: 'VD',
     color: 'warning',
   },
   {
     id: 6,
-    picture: '/vdemo/avatars/39.jpg',
+    picture: '/vuero/avatars/39.jpg',
     initials: 'GE',
     color: 'info',
   },
   {
     id: 0,
-    picture: '/vdemo/avatars/7.jpg',
+    picture: '/vuero/avatars/7.jpg',
     initials: 'AC',
     color: 'info',
   },

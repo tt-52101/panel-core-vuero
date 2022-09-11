@@ -6,7 +6,7 @@ export const users = [
     role: 'Project Manager',
     roleColor: 'primary',
     medias: {
-      avatar: '/vdemo/avatars/5.jpg',
+      avatar: '/vuero/avatars/5.jpg',
       flag: '/images/icons/flags/united-states-of-america.svg',
     },
     stats: {
@@ -15,7 +15,7 @@ export const users = [
       posts: 16,
     },
     teams: [
-      { picture: '/vdemo/avatars/9.jpg' },
+      { picture: '/vuero/avatars/9.jpg' },
       { picture: '/images/avatars/svg/vuero-1.svg' },
     ],
   },
@@ -26,7 +26,7 @@ export const users = [
     role: 'Web Developer',
     roleColor: 'orange',
     medias: {
-      avatar: '/vdemo/avatars/34.jpg',
+      avatar: '/vuero/avatars/34.jpg',
       flag: '/images/icons/flags/canada.svg',
     },
     stats: {
@@ -35,9 +35,9 @@ export const users = [
       posts: 5,
     },
     teams: [
-      { picture: '/vdemo/avatars/12.jpg' },
-      { picture: '/vdemo/avatars/22.jpg' },
-      { picture: '/vdemo/avatars/40.jpg' },
+      { picture: '/vuero/avatars/12.jpg' },
+      { picture: '/vuero/avatars/22.jpg' },
+      { picture: '/vuero/avatars/40.jpg' },
     ],
   },
   {
@@ -55,7 +55,7 @@ export const users = [
       replies: 97,
       posts: 16,
     },
-    teams: [{ picture: '/vdemo/avatars/7.jpg' }, { picture: '/vdemo/avatars/23.jpg' }],
+    teams: [{ picture: '/vuero/avatars/7.jpg' }, { picture: '/vuero/avatars/23.jpg' }],
   },
   {
     id: '40',
@@ -64,7 +64,7 @@ export const users = [
     role: 'Mobile Developer',
     roleColor: 'orange',
     medias: {
-      avatar: '/vdemo/avatars/40.jpg',
+      avatar: '/vuero/avatars/40.jpg',
       flag: '/images/icons/flags/france.svg',
     },
     stats: {
@@ -73,8 +73,8 @@ export const users = [
       posts: 8,
     },
     teams: [
-      { picture: '/vdemo/avatars/18.jpg' },
-      { picture: '/vdemo/avatars/13.jpg' },
+      { picture: '/vuero/avatars/18.jpg' },
+      { picture: '/vuero/avatars/13.jpg' },
       { picture: '/images/avatars/svg/vuero-1.svg' },
       { picture: '/images/avatars/svg/vuero-1.svg' },
       { picture: '/images/avatars/svg/vuero-1.svg' },
@@ -90,7 +90,7 @@ export const users = [
     role: 'HR Manager',
     roleColor: 'primary',
     medias: {
-      avatar: '/vdemo/avatars/27.jpg',
+      avatar: '/vuero/avatars/27.jpg',
       flag: '/images/icons/flags/spain.svg',
     },
     stats: {
@@ -98,7 +98,7 @@ export const users = [
       replies: 158,
       posts: 54,
     },
-    teams: [{ picture: '/vdemo/avatars/18.jpg' }],
+    teams: [{ picture: '/vuero/avatars/18.jpg' }],
   },
   {
     id: '9',
@@ -107,7 +107,7 @@ export const users = [
     role: 'UI/UX Designer',
     roleColor: 'green',
     medias: {
-      avatar: '/vdemo/avatars/9.jpg',
+      avatar: '/vuero/avatars/9.jpg',
       flag: '/images/icons/flags/united-states-of-america.svg',
     },
     stats: {
@@ -117,7 +117,7 @@ export const users = [
     },
     teams: [
       { picture: '/images/avatars/svg/vuero-1.svg' },
-      { picture: '/vdemo/avatars/5.jpg' },
+      { picture: '/vuero/avatars/5.jpg' },
     ],
   },
   {
@@ -127,7 +127,7 @@ export const users = [
     role: 'UI/UX Designer',
     roleColor: 'green',
     medias: {
-      avatar: '/vdemo/avatars/18.jpg',
+      avatar: '/vuero/avatars/18.jpg',
       flag: '/images/icons/flags/united-states-of-america.svg',
     },
     stats: {
@@ -136,16 +136,16 @@ export const users = [
       posts: 16,
     },
     teams: [
-      { picture: '/vdemo/avatars/27.jpg' },
-      { picture: '/vdemo/avatars/16.jpg' },
-      { picture: '/vdemo/avatars/29.jpg' },
-      { picture: '/vdemo/avatars/5.jpg' },
-      { picture: '/vdemo/avatars/5.jpg' },
-      { picture: '/vdemo/avatars/5.jpg' },
-      { picture: '/vdemo/avatars/5.jpg' },
-      { picture: '/vdemo/avatars/5.jpg' },
-      { picture: '/vdemo/avatars/5.jpg' },
-      { picture: '/vdemo/avatars/5.jpg' },
+      { picture: '/vuero/avatars/27.jpg' },
+      { picture: '/vuero/avatars/16.jpg' },
+      { picture: '/vuero/avatars/29.jpg' },
+      { picture: '/vuero/avatars/5.jpg' },
+      { picture: '/vuero/avatars/5.jpg' },
+      { picture: '/vuero/avatars/5.jpg' },
+      { picture: '/vuero/avatars/5.jpg' },
+      { picture: '/vuero/avatars/5.jpg' },
+      { picture: '/vuero/avatars/5.jpg' },
+      { picture: '/vuero/avatars/5.jpg' },
     ],
   },
   {
@@ -155,7 +155,7 @@ export const users = [
     role: 'Business Analyst',
     roleColor: 'primary',
     medias: {
-      avatar: '/vdemo/avatars/10.jpg',
+      avatar: '/vuero/avatars/10.jpg',
       flag: '/images/icons/flags/united-states-of-america.svg',
     },
     stats: {
@@ -163,7 +163,7 @@ export const users = [
       replies: 15,
       posts: 2,
     },
-    teams: [{ picture: '/vdemo/avatars/32.jpg' }, { picture: '/vdemo/avatars/22.jpg' }],
+    teams: [{ picture: '/vuero/avatars/32.jpg' }, { picture: '/vuero/avatars/22.jpg' }],
   },
   {
     id: '25',
@@ -172,7 +172,7 @@ export const users = [
     role: 'Web Developer',
     roleColor: 'orange',
     medias: {
-      avatar: '/vdemo/avatars/25.jpg',
+      avatar: '/vuero/avatars/25.jpg',
       flag: '/images/icons/flags/united-states-of-america.svg',
     },
     stats: {
@@ -181,11 +181,11 @@ export const users = [
       posts: 4,
     },
     teams: [
-      { picture: '/vdemo/avatars/26.jpg' },
-      { picture: '/vdemo/avatars/38.jpg' },
-      { picture: '/vdemo/avatars/21.jpg' },
-      { picture: '/vdemo/avatars/5.jpg' },
-      { picture: '/vdemo/avatars/5.jpg' },
+      { picture: '/vuero/avatars/26.jpg' },
+      { picture: '/vuero/avatars/38.jpg' },
+      { picture: '/vuero/avatars/21.jpg' },
+      { picture: '/vuero/avatars/5.jpg' },
+      { picture: '/vuero/avatars/5.jpg' },
     ],
   },
   {
@@ -195,7 +195,7 @@ export const users = [
     role: 'Software Engineer',
     roleColor: 'orange',
     medias: {
-      avatar: '/vdemo/avatars/7.jpg',
+      avatar: '/vuero/avatars/7.jpg',
       flag: '/images/icons/flags/united-states-of-america.svg',
     },
     stats: {
@@ -204,7 +204,7 @@ export const users = [
       posts: 14,
     },
     teams: [
-      { picture: '/vdemo/avatars/9.jpg' },
+      { picture: '/vuero/avatars/9.jpg' },
       { picture: '/images/avatars/svg/vuero-1.svg' },
     ],
   },

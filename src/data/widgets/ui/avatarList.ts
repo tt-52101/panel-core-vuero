@@ -1,12 +1,12 @@
 export const avatarList = [
   {
     id: 0,
-    picture: '/vdemo/avatars/26.jpg',
+    picture: '/vuero/avatars/26.jpg',
     name: 'Courtney W.',
   },
   {
     id: 1,
-    picture: '/vdemo/avatars/7.jpg',
+    picture: '/vuero/avatars/7.jpg',
     name: 'Alice C.',
   },
   {
@@ -19,13 +19,13 @@ export const avatarList = [
 export const avatarListCreative = [
   {
     id: 0,
-    picture: '/vdemo/avatars/26.jpg',
+    picture: '/vuero/avatars/26.jpg',
     name: 'Courtney W.',
     color: 'orange',
   },
   {
     id: 1,
-    picture: '/vdemo/avatars/7.jpg',
+    picture: '/vuero/avatars/7.jpg',
     name: 'Alice C.',
     color: 'purple',
   },

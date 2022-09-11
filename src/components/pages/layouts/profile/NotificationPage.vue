@@ -12,7 +12,7 @@
           <div class="content-wrap">
             <div class="content-box">
               <div class="status"></div>
-              <VAvatar picture="/vdemo/avatars/13.jpg" />
+              <VAvatar picture="/vuero/avatars/13.jpg" />
 
               <div class="box-text">
                 <div class="meta-text">
@@ -39,7 +39,7 @@
           <div class="content-wrap">
             <div class="content-box">
               <div class="status"></div>
-              <VAvatar picture="/vdemo/avatars/23.jpg" />
+              <VAvatar picture="/vuero/avatars/23.jpg" />
 
               <div class="box-text">
                 <div class="meta-text">
@@ -63,7 +63,7 @@
           <div class="content-wrap">
             <div class="content-box">
               <div class="status"></div>
-              <VAvatar picture="/vdemo/avatars/5.jpg" />
+              <VAvatar picture="/vuero/avatars/5.jpg" />
 
               <div class="box-text">
                 <div class="meta-text">
@@ -76,7 +76,7 @@
               </div>
               <div class="box-end">
                 <VAvatar size="small" color="warning" initials="BT" />
-                <VAvatar size="small" picture="/vdemo/avatars/18.jpg" />
+                <VAvatar size="small" picture="/vuero/avatars/18.jpg" />
                 <VAvatar size="small" color="info" initials="JD" />
               </div>
             </div>
@@ -92,7 +92,7 @@
           <div class="content-wrap">
             <div class="content-box">
               <div class="status"></div>
-              <VAvatar picture="/vdemo/avatars/12.jpg" />
+              <VAvatar picture="/vuero/avatars/12.jpg" />
 
               <div class="box-text">
                 <div class="meta-text">
@@ -118,7 +118,7 @@
           <div class="content-wrap">
             <div class="content-box">
               <div class="status"></div>
-              <VAvatar picture="/vdemo/avatars/26.jpg" />
+              <VAvatar picture="/vuero/avatars/26.jpg" />
 
               <div class="box-text">
                 <div class="meta-text">
@@ -130,8 +130,8 @@
                 </div>
               </div>
               <div class="box-end">
-                <VAvatar size="small" squared picture="/vdemo/photos/apps/5.png" />
-                <VAvatar size="small" squared picture="/vdemo/photos/apps/8.png" />
+                <VAvatar size="small" squared picture="/vuero/photos/apps/5.png" />
+                <VAvatar size="small" squared picture="/vuero/photos/apps/8.png" />
               </div>
             </div>
           </div>
@@ -146,7 +146,7 @@
           <div class="content-wrap">
             <div class="content-box">
               <div class="status"></div>
-              <VAvatar picture="/vdemo/avatars/31.jpg" />
+              <VAvatar picture="/vuero/avatars/31.jpg" />
 
               <div class="box-text">
                 <div class="meta-text">
@@ -173,7 +173,7 @@
           <div class="content-wrap">
             <div class="content-box">
               <div class="status"></div>
-              <VAvatar picture="/vdemo/avatars/13.jpg" />
+              <VAvatar picture="/vuero/avatars/13.jpg" />
 
               <div class="box-text">
                 <div class="meta-text">
@@ -197,7 +197,7 @@
           <div class="content-wrap">
             <div class="content-box">
               <div class="status"></div>
-              <VAvatar picture="/vdemo/avatars/25.jpg" />
+              <VAvatar picture="/vuero/avatars/25.jpg" />
 
               <div class="box-text">
                 <div class="meta-text">

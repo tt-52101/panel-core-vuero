@@ -8,21 +8,21 @@
             picture="/images/avatars/svg/vuero-1.svg"
             size="xl"
           />
-          <VAvatar class="v-avatar-2" picture="/vdemo/avatars/5.jpg" size="large" />
-          <VAvatar class="v-avatar-3" picture="/vdemo/avatars/7.jpg" size="large" />
-          <VAvatar class="v-avatar-4" picture="/vdemo/avatars/13.jpg" size="xl" />
-          <VAvatar class="v-avatar-5" picture="/vdemo/avatars/24.jpg" size="large" />
-          <VAvatar class="v-avatar-6" picture="/vdemo/avatars/12.jpg" size="xl" />
-          <VAvatar class="v-avatar-7" picture="/vdemo/avatars/28.jpg" size="medium" />
-          <VAvatar class="v-avatar-8" picture="/vdemo/avatars/32.jpg" size="large" />
-          <VAvatar class="v-avatar-9" picture="/vdemo/avatars/41.jpg" size="xl" />
-          <VAvatar class="v-avatar-10" picture="/vdemo/avatars/25.jpg" size="medium" />
-          <VAvatar class="v-avatar-11" picture="/vdemo/avatars/33.jpg" size="large" />
-          <VAvatar class="v-avatar-12" picture="/vdemo/avatars/21.jpg" size="xl" />
-          <VAvatar class="v-avatar-13" picture="/vdemo/avatars/23.jpg" size="large" />
-          <VAvatar class="v-avatar-14" picture="/vdemo/avatars/9.jpg" size="large" />
-          <VAvatar class="v-avatar-15" picture="/vdemo/avatars/15.jpg" size="large" />
-          <VAvatar class="v-avatar-16" picture="/vdemo/avatars/11.jpg" size="large" />
+          <VAvatar class="v-avatar-2" picture="/vuero/avatars/5.jpg" size="large" />
+          <VAvatar class="v-avatar-3" picture="/vuero/avatars/7.jpg" size="large" />
+          <VAvatar class="v-avatar-4" picture="/vuero/avatars/13.jpg" size="xl" />
+          <VAvatar class="v-avatar-5" picture="/vuero/avatars/24.jpg" size="large" />
+          <VAvatar class="v-avatar-6" picture="/vuero/avatars/12.jpg" size="xl" />
+          <VAvatar class="v-avatar-7" picture="/vuero/avatars/28.jpg" size="medium" />
+          <VAvatar class="v-avatar-8" picture="/vuero/avatars/32.jpg" size="large" />
+          <VAvatar class="v-avatar-9" picture="/vuero/avatars/41.jpg" size="xl" />
+          <VAvatar class="v-avatar-10" picture="/vuero/avatars/25.jpg" size="medium" />
+          <VAvatar class="v-avatar-11" picture="/vuero/avatars/33.jpg" size="large" />
+          <VAvatar class="v-avatar-12" picture="/vuero/avatars/21.jpg" size="xl" />
+          <VAvatar class="v-avatar-13" picture="/vuero/avatars/23.jpg" size="large" />
+          <VAvatar class="v-avatar-14" picture="/vuero/avatars/9.jpg" size="large" />
+          <VAvatar class="v-avatar-15" picture="/vuero/avatars/15.jpg" size="large" />
+          <VAvatar class="v-avatar-16" picture="/vuero/avatars/11.jpg" size="large" />
           <div class="boxed-cta-content has-text-centered">
             <h2 class="title is-1">Get Started Now</h2>
             <h3 class="subtitle">

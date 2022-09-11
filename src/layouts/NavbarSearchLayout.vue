@@ -29,17 +29,17 @@ const filter = ref('')
 
 const users: VAvatarProps[] = [
   {
-    picture: '/vdemo/avatars/12.jpg',
+    picture: '/vuero/avatars/12.jpg',
     initials: 'JS',
     color: 'info',
   },
   {
-    picture: '/vdemo/avatars/22.jpg',
+    picture: '/vuero/avatars/22.jpg',
     initials: 'JH',
     color: 'info',
   },
   {
-    picture: '/vdemo/avatars/40.jpg',
+    picture: '/vuero/avatars/40.jpg',
     initials: 'SM',
     color: 'h-purple',
   },

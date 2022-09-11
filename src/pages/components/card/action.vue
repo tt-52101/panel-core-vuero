@@ -50,7 +50,7 @@ useHead({
         <div class="columns is-multiline mb-6">
           <div class="column is-4">
             <VCardAction
-              avatar="/vdemo/avatars/19.jpg"
+              avatar="/vuero/avatars/19.jpg"
               badge="/images/icons/flags/germany.svg"
               title="Greta K."
               subtitle="Sales Manager"
@@ -62,7 +62,7 @@ useHead({
           </div>
           <div class="column is-4">
             <VCardAction
-              avatar="/vdemo/avatars/18.jpg"
+              avatar="/vuero/avatars/18.jpg"
               badge="/images/icons/flags/united-states-of-america.svg"
               title="George W."
               subtitle="Software Engineer"
@@ -74,7 +74,7 @@ useHead({
           </div>
           <div class="column is-4">
             <VCardAction
-              avatar="/vdemo/avatars/22.jpg"
+              avatar="/vuero/avatars/22.jpg"
               badge="/images/icons/flags/france.svg"
               title="Sandrine C."
               subtitle="HR Manager"
@@ -92,7 +92,7 @@ useHead({
         <div class="columns is-multiline mb-6">
           <div class="column is-4">
             <VCardAction
-              avatar="/vdemo/avatars/19.jpg"
+              avatar="/vuero/avatars/19.jpg"
               badge="/images/icons/flags/germany.svg"
               title="Greta K."
               subtitle="Sales Manager"
@@ -109,7 +109,7 @@ useHead({
           </div>
           <div class="column is-4">
             <VCardAction
-              avatar="/vdemo/avatars/18.jpg"
+              avatar="/vuero/avatars/18.jpg"
               badge="/images/icons/flags/united-states-of-america.svg"
               title="George W."
               subtitle="Software Engineer"
@@ -126,7 +126,7 @@ useHead({
           </div>
           <div class="column is-4">
             <VCardAction
-              avatar="/vdemo/avatars/22.jpg"
+              avatar="/vuero/avatars/22.jpg"
               badge="/images/icons/flags/france.svg"
               title="Sandrine C."
               subtitle="HR Manager"

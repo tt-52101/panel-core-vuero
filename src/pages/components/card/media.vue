@@ -45,8 +45,8 @@ useHead({
 
       <div class="column is-4">
         <VCardMedia
-          image="/vdemo/photos/apps/1.jpg"
-          avatar="/vdemo/avatars/19.jpg"
+          image="/vuero/photos/apps/1.jpg"
+          avatar="/vuero/avatars/19.jpg"
           badge="/images/icons/flags/germany.svg"
           title="Greta K."
           subtitle="Sales Manager"
@@ -63,8 +63,8 @@ useHead({
 
       <div class="column is-4">
         <VCardMedia
-          image="/vdemo/photos/apps/2.png"
-          avatar="/vdemo/avatars/23.jpg"
+          image="/vuero/photos/apps/2.png"
+          avatar="/vuero/avatars/23.jpg"
           badge="/images/icons/flags/united-states-of-america.svg"
           title="Irina V."
           subtitle="Project Manager"
@@ -81,8 +81,8 @@ useHead({
 
       <div class="column is-4">
         <VCardMedia
-          image="/vdemo/photos/apps/3.png"
-          avatar="/vdemo/avatars/12.jpg"
+          image="/vuero/photos/apps/3.png"
+          avatar="/vuero/avatars/12.jpg"
           badge="/images/icons/flags/united-states-of-america.svg"
           title="Joshua S."
           subtitle="Backend Developer"

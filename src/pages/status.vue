@@ -39,7 +39,7 @@ useHead({
           <div class="list-block">
             <div class="icon-wrap">
               <img
-                src="/vdemo/photos/animaticons/lightbulb.gif"
+                src="/vuero/photos/animaticons/lightbulb.gif"
                 alt=""
                 @error.once="(event) => onceImageErrored(event, '150x150')"
               />
@@ -63,7 +63,7 @@ useHead({
           <div class="list-block api">
             <div class="icon-wrap">
               <img
-                src="/vdemo/photos/animaticons/image.gif"
+                src="/vuero/photos/animaticons/image.gif"
                 alt=""
                 @error.once="(event) => onceImageErrored(event, '150x150')"
               />
@@ -87,7 +87,7 @@ useHead({
           <div class="list-block">
             <div class="icon-wrap">
               <img
-                src="/vdemo/photos/animaticons/search.gif"
+                src="/vuero/photos/animaticons/search.gif"
                 alt=""
                 @error.once="(event) => onceImageErrored(event, '150x150')"
               />
@@ -111,7 +111,7 @@ useHead({
           <div class="list-block">
             <div class="icon-wrap">
               <img
-                src="/vdemo/photos/animaticons/diamond.gif"
+                src="/vuero/photos/animaticons/diamond.gif"
                 alt=""
                 @error.once="(event) => onceImageErrored(event, '150x150')"
               />
@@ -135,7 +135,7 @@ useHead({
           <div class="list-block api">
             <div class="icon-wrap">
               <img
-                src="/vdemo/photos/animaticons/chart.gif"
+                src="/vuero/photos/animaticons/chart.gif"
                 alt=""
                 @error.once="(event) => onceImageErrored(event, '150x150')"
               />
@@ -159,7 +159,7 @@ useHead({
           <div class="list-block api">
             <div class="icon-wrap">
               <img
-                src="/vdemo/photos/animaticons/rocket.gif"
+                src="/vuero/photos/animaticons/rocket.gif"
                 alt=""
                 @error.once="(event) => onceImageErrored(event, '150x150')"
               />
@@ -183,7 +183,7 @@ useHead({
           <div class="list-block">
             <div class="icon-wrap">
               <img
-                src="/vdemo/photos/animaticons/check.gif"
+                src="/vuero/photos/animaticons/check.gif"
                 alt=""
                 @error.once="(event) => onceImageErrored(event, '150x150')"
               />

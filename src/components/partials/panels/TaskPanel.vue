@@ -46,9 +46,9 @@ const panels = usePanels()
 
             <div class="participants-inner">
               <div class="avatar-stack">
-                <VAvatar picture="/vdemo/avatars/7.jpg" />
+                <VAvatar picture="/vuero/avatars/7.jpg" />
                 <VAvatar picture="/images/avatars/svg/vuero-1.svg" />
-                <VAvatar picture="/vdemo/avatars/5.jpg" />
+                <VAvatar picture="/vuero/avatars/5.jpg" />
               </div>
 
               <button>

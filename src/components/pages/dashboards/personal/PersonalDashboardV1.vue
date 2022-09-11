@@ -133,9 +133,9 @@ import { profitChartOptions } from '/@src/data/dashboards/personal-v1/profitChar
         <div class="column is-4">
           <div class="dashboard-card is-gauge">
             <div class="people">
-              <VAvatar picture="/vdemo/avatars/21.jpg" />
+              <VAvatar picture="/vuero/avatars/21.jpg" />
               <VAvatar initials="SC" color="h-purple" />
-              <VAvatar picture="/vdemo/avatars/39.jpg" />
+              <VAvatar picture="/vuero/avatars/39.jpg" />
             </div>
             <ApexChart
               :height="teamGaugeOptions.chart.height"

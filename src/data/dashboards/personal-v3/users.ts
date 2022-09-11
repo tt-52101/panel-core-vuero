@@ -1,19 +1,19 @@
 export const userStack = [
   {
     id: 5,
-    picture: '/vdemo/avatars/5.jpg',
+    picture: '/vuero/avatars/5.jpg',
     initials: 'ML',
     color: 'info',
   },
   {
     id: 18,
-    picture: '/vdemo/avatars/18.jpg',
+    picture: '/vuero/avatars/18.jpg',
     initials: 'EC',
     color: 'warning',
   },
   {
     id: 26,
-    // picture: '/vdemo/avatars/26.jpg',
+    // picture: '/vuero/avatars/26.jpg',
     initials: 'CW',
     color: 'h-purple',
   },

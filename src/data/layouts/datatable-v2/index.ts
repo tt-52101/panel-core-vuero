@@ -61,7 +61,7 @@ export const datatableV2 = {
     data: [
       [
         0,
-        '/vdemo/photos/products/1.png',
+        '/vuero/photos/products/1.png',
         'Yellow Couch',
         'FC-58-5564',
         190,
@@ -71,7 +71,7 @@ export const datatableV2 = {
       ],
       [
         1,
-        '/vdemo/photos/products/2.png',
+        '/vuero/photos/products/2.png',
         'Green Couch',
         'FC-58-1565',
         170,
@@ -81,7 +81,7 @@ export const datatableV2 = {
       ],
       [
         2,
-        '/vdemo/photos/products/3.png',
+        '/vuero/photos/products/3.png',
         'Turquoise Seat',
         'FS-12-4854',
         90,
@@ -91,7 +91,7 @@ export const datatableV2 = {
       ],
       [
         3,
-        '/vdemo/photos/products/4.png',
+        '/vuero/photos/products/4.png',
         'Cyan Couch',
         'FC-58-6723',
         180,
@@ -101,7 +101,7 @@ export const datatableV2 = {
       ],
       [
         4,
-        '/vdemo/photos/products/5.png',
+        '/vuero/photos/products/5.png',
         'Coffee Table',
         'FT-45-4684',
         280,
@@ -111,7 +111,7 @@ export const datatableV2 = {
       ],
       [
         5,
-        '/vdemo/photos/products/6.png',
+        '/vuero/photos/products/6.png',
         'Red Couch',
         'FC-58-7565',
         190,
@@ -121,7 +121,7 @@ export const datatableV2 = {
       ],
       [
         6,
-        '/vdemo/photos/products/7.png',
+        '/vuero/photos/products/7.png',
         'Mustard Seat',
         'FS-11-1861',
         70,
@@ -131,7 +131,7 @@ export const datatableV2 = {
       ],
       [
         7,
-        '/vdemo/photos/products/8.png',
+        '/vuero/photos/products/8.png',
         'Modern Sofa',
         'FC-58-3971',
         190,
@@ -141,7 +141,7 @@ export const datatableV2 = {
       ],
       [
         8,
-        '/vdemo/photos/products/9.png',
+        '/vuero/photos/products/9.png',
         'Table Triplets',
         'FT-22-2875',
         340,
@@ -151,7 +151,7 @@ export const datatableV2 = {
       ],
       [
         9,
-        '/vdemo/photos/products/10.png',
+        '/vuero/photos/products/10.png',
         'Wood Chair',
         'FS-11-2876',
         80,
@@ -161,7 +161,7 @@ export const datatableV2 = {
       ],
       [
         10,
-        '/vdemo/photos/products/11.png',
+        '/vuero/photos/products/11.png',
         'Modern Table',
         'FT-14-6543',
         150,
@@ -171,7 +171,7 @@ export const datatableV2 = {
       ],
       [
         11,
-        '/vdemo/photos/products/12.png',
+        '/vuero/photos/products/12.png',
         'Hippie Sofa',
         'FC-58-7241',
         380,
@@ -181,7 +181,7 @@ export const datatableV2 = {
       ],
       [
         12,
-        '/vdemo/photos/products/13.png',
+        '/vuero/photos/products/13.png',
         'Wood Dresser',
         'FD-98-4654',
         270,
@@ -191,7 +191,7 @@ export const datatableV2 = {
       ],
       [
         13,
-        '/vdemo/photos/products/14.png',
+        '/vuero/photos/products/14.png',
         'Walnut Chair',
         'FS-11-5873',
         110,
@@ -201,7 +201,7 @@ export const datatableV2 = {
       ],
       [
         14,
-        '/vdemo/photos/products/15.png',
+        '/vuero/photos/products/15.png',
         'Purple Armchair',
         'FS-10-1948',
         130,
@@ -211,7 +211,7 @@ export const datatableV2 = {
       ],
       [
         15,
-        '/vdemo/photos/products/16.png',
+        '/vuero/photos/products/16.png',
         'Round Chair',
         'FS-11-2857',
         60,
@@ -221,7 +221,7 @@ export const datatableV2 = {
       ],
       [
         16,
-        '/vdemo/photos/products/17.png',
+        '/vuero/photos/products/17.png',
         'Modern Cabinet',
         'FB-58-25253',
         240,
@@ -231,7 +231,7 @@ export const datatableV2 = {
       ],
       [
         17,
-        '/vdemo/photos/products/18.png',
+        '/vuero/photos/products/18.png',
         'Chromed Cabinet',
         'FB-58-5673',
         350,
@@ -241,7 +241,7 @@ export const datatableV2 = {
       ],
       [
         18,
-        '/vdemo/photos/products/19.png',
+        '/vuero/photos/products/19.png',
         'Modern Lamp',
         'FL-19-7354',
         50,
@@ -251,7 +251,7 @@ export const datatableV2 = {
       ],
       [
         19,
-        '/vdemo/photos/products/20.png',
+        '/vuero/photos/products/20.png',
         'Lamp Triplets',
         'FL-18-2846',
         180,
@@ -261,7 +261,7 @@ export const datatableV2 = {
       ],
       [
         20,
-        '/vdemo/photos/products/21.png',
+        '/vuero/photos/products/21.png',
         'Wood Lamp',
         'FL-19-1947',
         60,
@@ -271,7 +271,7 @@ export const datatableV2 = {
       ],
       [
         21,
-        '/vdemo/photos/products/22.png',
+        '/vuero/photos/products/22.png',
         'Carbone Fiber Lamp',
         'FL-19-3658',
         220,
@@ -281,7 +281,7 @@ export const datatableV2 = {
       ],
       [
         22,
-        '/vdemo/photos/products/23.png',
+        '/vuero/photos/products/23.png',
         'Multidirectional Spots',
         'FL-19-1731',
         160,

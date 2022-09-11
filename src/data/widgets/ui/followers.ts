@@ -1,7 +1,7 @@
 export const followersList = [
   {
     id: 0,
-    picture: '/vdemo/avatars/7.jpg',
+    picture: '/vuero/avatars/7.jpg',
     name: 'Alice',
   },
   {
@@ -11,7 +11,7 @@ export const followersList = [
   },
   {
     id: 2,
-    picture: '/vdemo/avatars/5.jpg',
+    picture: '/vuero/avatars/5.jpg',
     name: 'Mary',
   },
 ]

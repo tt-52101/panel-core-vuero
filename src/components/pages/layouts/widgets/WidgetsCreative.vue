@@ -151,7 +151,7 @@ import Widget8 from '/@src/assets/illustrations/widgets/8.svg'
       <!--Widget-->
       <CallWidget
         picture="/@src/assets/illustrations/widgets/6.svg"
-        badge="/vdemo/avatars/7.jpg"
+        badge="/vuero/avatars/7.jpg"
         username="Alice"
       />
 

@@ -80,7 +80,7 @@ const optionsSingle = ['All Posts', 'Recent Posts', 'Older Posts', 'Popular Post
           <a href="#" class="tile is-child tile-grid-item is-medium">
             <div class="tile-grid-item-inner">
               <img
-                src="/vdemo/photos/11.jpg"
+                src="/vuero/photos/11.jpg"
                 alt=""
                 @error.once="(event) => onceImageErrored(event, '400x300')"
               />
@@ -95,7 +95,7 @@ const optionsSingle = ['All Posts', 'Recent Posts', 'Older Posts', 'Popular Post
                   </p>
                 </div>
                 <div class="tile-meta">
-                  <VAvatar picture="/vdemo/avatars/39.jpg" size="small" />
+                  <VAvatar picture="/vuero/avatars/39.jpg" size="small" />
                   <div class="meta-inner">
                     <span class="dark-inverted" data-filter-match> Alejandro B.</span>
                     <span>30 minutes ago</span>
@@ -109,7 +109,7 @@ const optionsSingle = ['All Posts', 'Recent Posts', 'Older Posts', 'Popular Post
           <a href="#" class="tile is-child tile-grid-item is-medium">
             <div class="tile-grid-item-inner">
               <img
-                src="/vdemo/photos/12.jpg"
+                src="/vuero/photos/12.jpg"
                 alt=""
                 @error.once="(event) => onceImageErrored(event, '400x300')"
               />
@@ -124,7 +124,7 @@ const optionsSingle = ['All Posts', 'Recent Posts', 'Older Posts', 'Popular Post
                   </p>
                 </div>
                 <div class="tile-meta">
-                  <VAvatar picture="/vdemo/avatars/15.jpg" size="small" />
+                  <VAvatar picture="/vuero/avatars/15.jpg" size="small" />
                   <div class="meta-inner">
                     <span class="dark-inverted" data-filter-match> Hilde V.</span>
                     <span>4 hours ago</span>
@@ -138,7 +138,7 @@ const optionsSingle = ['All Posts', 'Recent Posts', 'Older Posts', 'Popular Post
           <a href="#" class="tile is-child tile-grid-item is-medium">
             <div class="tile-grid-item-inner">
               <img
-                src="/vdemo/photos/13.jpg"
+                src="/vuero/photos/13.jpg"
                 alt=""
                 @error.once="(event) => onceImageErrored(event, '400x300')"
               />
@@ -153,7 +153,7 @@ const optionsSingle = ['All Posts', 'Recent Posts', 'Older Posts', 'Popular Post
                   </p>
                 </div>
                 <div class="tile-meta">
-                  <VAvatar picture="/vdemo/avatars/24.jpg" size="small" />
+                  <VAvatar picture="/vuero/avatars/24.jpg" size="small" />
                   <div class="meta-inner">
                     <span class="dark-inverted" data-filter-match> Sandrine C.</span>
                     <span>5 hours ago</span>
@@ -172,7 +172,7 @@ const optionsSingle = ['All Posts', 'Recent Posts', 'Older Posts', 'Popular Post
               <a href="#" class="tile is-child tile-grid-item is-medium">
                 <div class="tile-grid-item-inner">
                   <img
-                    src="/vdemo/photos/14.jpg"
+                    src="/vuero/photos/14.jpg"
                     alt=""
                     @error.once="(event) => onceImageErrored(event, '400x300')"
                   />
@@ -187,7 +187,7 @@ const optionsSingle = ['All Posts', 'Recent Posts', 'Older Posts', 'Popular Post
                       </p>
                     </div>
                     <div class="tile-meta">
-                      <VAvatar picture="/vdemo/avatars/27.jpg" size="small" />
+                      <VAvatar picture="/vuero/avatars/27.jpg" size="small" />
                       <div class="meta-inner">
                         <span class="dark-inverted" data-filter-match> Carmen E.</span>
                         <span>8 hours ago</span>
@@ -199,7 +199,7 @@ const optionsSingle = ['All Posts', 'Recent Posts', 'Older Posts', 'Popular Post
               <a href="#" class="tile is-child tile-grid-item is-medium">
                 <div class="tile-grid-item-inner">
                   <img
-                    src="/vdemo/photos/15.jpg"
+                    src="/vuero/photos/15.jpg"
                     alt=""
                     @error.once="(event) => onceImageErrored(event, '400x300')"
                   />
@@ -214,7 +214,7 @@ const optionsSingle = ['All Posts', 'Recent Posts', 'Older Posts', 'Popular Post
                       </p>
                     </div>
                     <div class="tile-meta">
-                      <VAvatar picture="/vdemo/avatars/10.jpg" size="small" />
+                      <VAvatar picture="/vuero/avatars/10.jpg" size="small" />
                       <div class="meta-inner">
                         <span class="dark-inverted" data-filter-match> Henry G.</span>
                         <span>1 day ago</span>
@@ -228,7 +228,7 @@ const optionsSingle = ['All Posts', 'Recent Posts', 'Older Posts', 'Popular Post
               <a href="#" class="tile is-child tile-grid-item is-large">
                 <div class="tile-grid-item-inner">
                   <img
-                    src="/vdemo/photos/16.jpg"
+                    src="/vuero/photos/16.jpg"
                     alt=""
                     @error.once="(event) => onceImageErrored(event, '400x300')"
                   />
@@ -243,7 +243,7 @@ const optionsSingle = ['All Posts', 'Recent Posts', 'Older Posts', 'Popular Post
                       </p>
                     </div>
                     <div class="tile-meta">
-                      <VAvatar picture="/vdemo/avatars/22.jpg" size="small" />
+                      <VAvatar picture="/vuero/avatars/22.jpg" size="small" />
                       <div class="meta-inner">
                         <span class="dark-inverted" data-filter-match> Jimmy H.</span>
                         <span>1 day ago</span>
@@ -258,7 +258,7 @@ const optionsSingle = ['All Posts', 'Recent Posts', 'Older Posts', 'Popular Post
             <a href="#" class="tile is-child tile-grid-item is-wide">
               <div class="tile-grid-item-inner">
                 <img
-                  src="/vdemo/photos/18.jpg"
+                  src="/vuero/photos/18.jpg"
                   alt=""
                   @error.once="(event) => onceImageErrored(event, '400x300')"
                 />
@@ -277,7 +277,7 @@ const optionsSingle = ['All Posts', 'Recent Posts', 'Older Posts', 'Popular Post
                     </p>
                   </div>
                   <div class="tile-meta">
-                    <VAvatar picture="/vdemo/avatars/16.jpg" size="small" />
+                    <VAvatar picture="/vuero/avatars/16.jpg" size="small" />
                     <div class="meta-inner">
                       <span class="dark-inverted" data-filter-match> Jason G.</span>
                       <span>2 days ago</span>
@@ -292,7 +292,7 @@ const optionsSingle = ['All Posts', 'Recent Posts', 'Older Posts', 'Popular Post
           <a href="#" class="tile is-child tile-grid-item is-tall">
             <div class="tile-grid-item-inner">
               <img
-                src="/vdemo/photos/19.jpg"
+                src="/vuero/photos/19.jpg"
                 alt=""
                 @error.once="(event) => onceImageErrored(event, '400x300')"
               />
@@ -311,7 +311,7 @@ const optionsSingle = ['All Posts', 'Recent Posts', 'Older Posts', 'Popular Post
                   </p>
                 </div>
                 <div class="tile-meta">
-                  <VAvatar picture="/vdemo/avatars/26.jpg" size="small" />
+                  <VAvatar picture="/vuero/avatars/26.jpg" size="small" />
                   <div class="meta-inner">
                     <span class="dark-inverted" data-filter-match> Courtney W.</span>
                     <span>2 days ago</span>
@@ -328,7 +328,7 @@ const optionsSingle = ['All Posts', 'Recent Posts', 'Older Posts', 'Popular Post
           <a href="#" class="tile is-child tile-grid-item is-wide">
             <div class="tile-grid-item-inner">
               <img
-                src="/vdemo/photos/20.jpg"
+                src="/vuero/photos/20.jpg"
                 alt=""
                 @error.once="(event) => onceImageErrored(event, '400x300')"
               />
@@ -357,7 +357,7 @@ const optionsSingle = ['All Posts', 'Recent Posts', 'Older Posts', 'Popular Post
           <a href="#" class="tile is-child tile-grid-item is-wide">
             <div class="tile-grid-item-inner">
               <img
-                src="/vdemo/photos/23.jpg"
+                src="/vuero/photos/23.jpg"
                 alt=""
                 @error.once="(event) => onceImageErrored(event, '400x300')"
               />
@@ -372,7 +372,7 @@ const optionsSingle = ['All Posts', 'Recent Posts', 'Older Posts', 'Popular Post
                   </p>
                 </div>
                 <div class="tile-meta">
-                  <VAvatar picture="/vdemo/avatars/40.jpg" size="small" />
+                  <VAvatar picture="/vuero/avatars/40.jpg" size="small" />
                   <div class="meta-inner">
                     <span class="dark-inverted" data-filter-match> Jeanne M.</span>
                     <span>3 days ago</span>
@@ -389,7 +389,7 @@ const optionsSingle = ['All Posts', 'Recent Posts', 'Older Posts', 'Popular Post
           <a href="#" class="tile is-child tile-grid-item is-medium">
             <div class="tile-grid-item-inner">
               <img
-                src="/vdemo/photos/22.jpg"
+                src="/vuero/photos/22.jpg"
                 alt=""
                 @error.once="(event) => onceImageErrored(event, '400x300')"
               />
@@ -404,7 +404,7 @@ const optionsSingle = ['All Posts', 'Recent Posts', 'Older Posts', 'Popular Post
                   </p>
                 </div>
                 <div class="tile-meta">
-                  <VAvatar picture="/vdemo/avatars/9.jpg" size="small" />
+                  <VAvatar picture="/vuero/avatars/9.jpg" size="small" />
                   <div class="meta-inner">
                     <span class="dark-inverted" data-filter-match>Ana B.</span>
                     <span>3 days ago</span>
@@ -418,7 +418,7 @@ const optionsSingle = ['All Posts', 'Recent Posts', 'Older Posts', 'Popular Post
           <a href="#" class="tile is-child tile-grid-item is-medium">
             <div class="tile-grid-item-inner">
               <img
-                src="/vdemo/photos/24.jpg"
+                src="/vuero/photos/24.jpg"
                 alt=""
                 @error.once="(event) => onceImageErrored(event, '400x300')"
               />
@@ -433,7 +433,7 @@ const optionsSingle = ['All Posts', 'Recent Posts', 'Older Posts', 'Popular Post
                   </p>
                 </div>
                 <div class="tile-meta">
-                  <VAvatar picture="/vdemo/avatars/19.jpg" size="small" />
+                  <VAvatar picture="/vuero/avatars/19.jpg" size="small" />
                   <div class="meta-inner">
                     <span class="dark-inverted" data-filter-match> Greta K.</span>
                     <span>3 days ago</span>
@@ -447,7 +447,7 @@ const optionsSingle = ['All Posts', 'Recent Posts', 'Older Posts', 'Popular Post
           <a href="#" class="tile is-child tile-grid-item is-medium">
             <div class="tile-grid-item-inner">
               <img
-                src="/vdemo/photos/27.jpg"
+                src="/vuero/photos/27.jpg"
                 alt=""
                 @error.once="(event) => onceImageErrored(event, '400x300')"
               />
@@ -462,7 +462,7 @@ const optionsSingle = ['All Posts', 'Recent Posts', 'Older Posts', 'Popular Post
                   </p>
                 </div>
                 <div class="tile-meta">
-                  <VAvatar picture="/vdemo/avatars/33.jpg" size="small" />
+                  <VAvatar picture="/vuero/avatars/33.jpg" size="small" />
                   <div class="meta-inner">
                     <span class="dark-inverted" data-filter-match> Harvey M.</span>
                     <span>4 days ago</span>

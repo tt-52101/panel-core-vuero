@@ -193,7 +193,7 @@ useHead({
                       placement="top-start"
                     >
                       <VAvatar
-                        picture="/vdemo/avatars/19.jpg"
+                        picture="/vuero/avatars/19.jpg"
                         badge="/images/icons/flags/germany.svg"
                       />
                       <template #content>
@@ -231,7 +231,7 @@ useHead({
                       placement="top-start"
                     >
                       <VAvatar
-                        picture="/vdemo/avatars/19.jpg"
+                        picture="/vuero/avatars/19.jpg"
                         badge="/images/icons/flags/germany.svg"
                       />
                       <template #content>
@@ -268,7 +268,7 @@ useHead({
                       placement="top-start"
                     >
                       <VAvatar
-                        picture="/vdemo/avatars/19.jpg"
+                        picture="/vuero/avatars/19.jpg"
                         badge="/images/icons/flags/germany.svg"
                       />
                       <template #content>

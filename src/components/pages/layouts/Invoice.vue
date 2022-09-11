@@ -116,7 +116,7 @@ const totalColumns = {
       <div class="invoice-card">
         <div class="invoice-section is-flex is-bordered">
           <Tippy class="has-help-cursor" interactive placement="bottom-start">
-            <VAvatar size="large" picture="/vdemo/avatars/13.jpg" />
+            <VAvatar size="large" picture="/vuero/avatars/13.jpg" />
             <template #content>
               <UserPopoverContent :user="popovers.user13" />
             </template>
@@ -138,7 +138,7 @@ const totalColumns = {
           <VAvatar
             size="large"
             class="is-customer"
-            picture="/vdemo/photos/brands/airbnb.svg"
+            picture="/vuero/photos/brands/airbnb.svg"
           />
 
           <div class="meta">

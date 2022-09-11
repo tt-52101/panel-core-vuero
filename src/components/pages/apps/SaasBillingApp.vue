@@ -162,7 +162,7 @@ const selected = ref('value_2')
 
             <div>
               <Tippy class="has-help-cursor" interactive placement="bottom">
-                <VAvatar picture="/vdemo/avatars/18.jpg" />
+                <VAvatar picture="/vuero/avatars/18.jpg" />
                 <template #content>
                   <UserPopoverContent :user="popovers.user18" />
                 </template>
@@ -178,7 +178,7 @@ const selected = ref('value_2')
             </div>
             <div>
               <Tippy class="has-help-cursor" interactive placement="bottom">
-                <VAvatar picture="/vdemo/avatars/7.jpg" />
+                <VAvatar picture="/vuero/avatars/7.jpg" />
                 <template #content>
                   <UserPopoverContent :user="popovers.user7" />
                 </template>

@@ -8,12 +8,12 @@ export const recipes = [
     attachments: 3,
     author: {
       name: 'Alice C.',
-      avatar: '/vdemo/avatars/7.jpg',
+      avatar: '/vuero/avatars/7.jpg',
     },
     followers: [
       {
         id: 1,
-        picture: '/vdemo/avatars/9.jpg',
+        picture: '/vuero/avatars/9.jpg',
       },
       {
         id: 2,
@@ -30,20 +30,20 @@ export const recipes = [
     attachments: 2,
     author: {
       name: 'Jimmy H.',
-      avatar: '/vdemo/avatars/22.jpg',
+      avatar: '/vuero/avatars/22.jpg',
     },
     followers: [
       {
         id: 1,
-        picture: '/vdemo/avatars/12.jpg',
+        picture: '/vuero/avatars/12.jpg',
       },
       {
         id: 2,
-        picture: '/vdemo/avatars/27.jpg',
+        picture: '/vuero/avatars/27.jpg',
       },
       {
         id: 3,
-        picture: '/vdemo/avatars/40.jpg',
+        picture: '/vuero/avatars/40.jpg',
       },
       {
         id: 4,
@@ -80,20 +80,20 @@ export const recipes = [
     attachments: 2,
     author: {
       name: 'Hilde V.',
-      avatar: '/vdemo/avatars/15.jpg',
+      avatar: '/vuero/avatars/15.jpg',
     },
     followers: [
       {
         id: 1,
-        picture: '/vdemo/avatars/19.jpg',
+        picture: '/vuero/avatars/19.jpg',
       },
       {
         id: 2,
-        picture: '/vdemo/avatars/24.jpg',
+        picture: '/vuero/avatars/24.jpg',
       },
       {
         id: 3,
-        picture: '/vdemo/avatars/34.jpg',
+        picture: '/vuero/avatars/34.jpg',
       },
       {
         id: 4,
@@ -130,20 +130,20 @@ export const recipes = [
     attachments: 7,
     author: {
       name: 'Courtney W.',
-      avatar: '/vdemo/avatars/26.jpg',
+      avatar: '/vuero/avatars/26.jpg',
     },
     followers: [
       {
         id: 1,
-        picture: '/vdemo/avatars/19.jpg',
+        picture: '/vuero/avatars/19.jpg',
       },
       {
         id: 2,
-        picture: '/vdemo/avatars/24.jpg',
+        picture: '/vuero/avatars/24.jpg',
       },
       {
         id: 3,
-        picture: '/vdemo/avatars/34.jpg',
+        picture: '/vuero/avatars/34.jpg',
       },
       {
         id: 4,
@@ -180,7 +180,7 @@ export const recipes = [
     attachments: 2,
     author: {
       name: 'Ryan B.',
-      avatar: '/vdemo/avatars/14.jpg',
+      avatar: '/vuero/avatars/14.jpg',
     },
     followers: [
       {
@@ -189,11 +189,11 @@ export const recipes = [
       },
       {
         id: 2,
-        picture: '/vdemo/avatars/9.jpg',
+        picture: '/vuero/avatars/9.jpg',
       },
       {
         id: 3,
-        picture: '/vdemo/avatars/13.jpg',
+        picture: '/vuero/avatars/13.jpg',
       },
       {
         id: 4,
@@ -230,7 +230,7 @@ export const recipes = [
     attachments: 2,
     author: {
       name: 'Alice C.',
-      avatar: '/vdemo/avatars/7.jpg',
+      avatar: '/vuero/avatars/7.jpg',
     },
     followers: [
       {
@@ -239,11 +239,11 @@ export const recipes = [
       },
       {
         id: 2,
-        picture: '/vdemo/avatars/9.jpg',
+        picture: '/vuero/avatars/9.jpg',
       },
       {
         id: 3,
-        picture: '/vdemo/avatars/13.jpg',
+        picture: '/vuero/avatars/13.jpg',
       },
       {
         id: 4,
@@ -280,20 +280,20 @@ export const recipes = [
     attachments: 2,
     author: {
       name: 'Elizabeth F.',
-      avatar: '/vdemo/avatars/21.jpg',
+      avatar: '/vuero/avatars/21.jpg',
     },
     followers: [
       {
         id: 1,
-        picture: '/vdemo/avatars/5.jpg',
+        picture: '/vuero/avatars/5.jpg',
       },
       {
         id: 2,
-        picture: '/vdemo/avatars/18.jpg',
+        picture: '/vuero/avatars/18.jpg',
       },
       {
         id: 3,
-        picture: '/vdemo/avatars/25.jpg',
+        picture: '/vuero/avatars/25.jpg',
       },
       {
         id: 4,
@@ -330,20 +330,20 @@ export const recipes = [
     attachments: 1,
     author: {
       name: 'Joshua S.',
-      avatar: '/vdemo/avatars/12.jpg',
+      avatar: '/vuero/avatars/12.jpg',
     },
     followers: [
       {
         id: 1,
-        picture: '/vdemo/avatars/9.jpg',
+        picture: '/vuero/avatars/9.jpg',
       },
       {
         id: 2,
-        picture: '/vdemo/avatars/28.jpg',
+        picture: '/vuero/avatars/28.jpg',
       },
       {
         id: 3,
-        picture: '/vdemo/avatars/36.jpg',
+        picture: '/vuero/avatars/36.jpg',
       },
       {
         id: 4,
@@ -380,20 +380,20 @@ export const recipes = [
     attachments: 1,
     author: {
       name: 'Joshua S.',
-      avatar: '/vdemo/avatars/12.jpg',
+      avatar: '/vuero/avatars/12.jpg',
     },
     followers: [
       {
         id: 1,
-        picture: '/vdemo/avatars/5.jpg',
+        picture: '/vuero/avatars/5.jpg',
       },
       {
         id: 2,
-        picture: '/vdemo/avatars/31.jpg',
+        picture: '/vuero/avatars/31.jpg',
       },
       {
         id: 3,
-        picture: '/vdemo/avatars/16.jpg',
+        picture: '/vuero/avatars/16.jpg',
       },
       {
         id: 4,
@@ -430,20 +430,20 @@ export const recipes = [
     attachments: 1,
     author: {
       name: 'Kelly M.',
-      avatar: '/vdemo/avatars/11.jpg',
+      avatar: '/vuero/avatars/11.jpg',
     },
     followers: [
       {
         id: 1,
-        picture: '/vdemo/avatars/24.jpg',
+        picture: '/vuero/avatars/24.jpg',
       },
       {
         id: 2,
-        picture: '/vdemo/avatars/23.jpg',
+        picture: '/vuero/avatars/23.jpg',
       },
       {
         id: 3,
-        picture: '/vdemo/avatars/13.jpg',
+        picture: '/vuero/avatars/13.jpg',
       },
       {
         id: 4,

@@ -119,7 +119,7 @@ function getAvatarData(user: UserPopover): VAvatarProps {
                   :offset="[0, 10]"
                   placement="top-start"
                 >
-                  <VAvatar size="small" picture="/vdemo/avatars/7.jpg" />
+                  <VAvatar size="small" picture="/vuero/avatars/7.jpg" />
                   <template #content>
                     <UserPopoverContent :user="popovers.user7" />
                   </template>
@@ -135,7 +135,7 @@ function getAvatarData(user: UserPopover): VAvatarProps {
                   :offset="[0, 10]"
                   placement="top-start"
                 >
-                  <VAvatar size="small" picture="/vdemo/avatars/13.jpg" />
+                  <VAvatar size="small" picture="/vuero/avatars/13.jpg" />
                   <template #content>
                     <UserPopoverContent :user="popovers.user13" />
                   </template>
@@ -151,7 +151,7 @@ function getAvatarData(user: UserPopover): VAvatarProps {
                   :offset="[0, 10]"
                   placement="top-start"
                 >
-                  <VAvatar size="small" picture="/vdemo/avatars/22.jpg" />
+                  <VAvatar size="small" picture="/vuero/avatars/22.jpg" />
                   <template #content>
                     <UserPopoverContent :user="popovers.user22" />
                   </template>

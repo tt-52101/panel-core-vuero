@@ -8,15 +8,15 @@ export const topicList = [
     users: [
       {
         id: 2,
-        picture: '/vdemo/avatars/12.jpg',
+        picture: '/vuero/avatars/12.jpg',
       },
       {
         id: 5,
-        picture: '/vdemo/avatars/22.jpg',
+        picture: '/vuero/avatars/22.jpg',
       },
       {
         id: 11,
-        picture: '/vdemo/avatars/40.jpg',
+        picture: '/vuero/avatars/40.jpg',
       },
       {
         id: 100,
@@ -49,7 +49,7 @@ export const topicList = [
     users: [
       {
         id: 1,
-        picture: '/vdemo/avatars/9.jpg',
+        picture: '/vuero/avatars/9.jpg',
       },
       {
         id: 3,
@@ -66,11 +66,11 @@ export const topicList = [
     users: [
       {
         id: 0,
-        picture: '/vdemo/avatars/7.jpg',
+        picture: '/vuero/avatars/7.jpg',
       },
       {
         id: 21,
-        picture: '/vdemo/avatars/23.jpg',
+        picture: '/vuero/avatars/23.jpg',
       },
     ],
   },
@@ -83,11 +83,11 @@ export const topicList = [
     users: [
       {
         id: 7,
-        picture: '/vdemo/avatars/18.jpg',
+        picture: '/vuero/avatars/18.jpg',
       },
       {
         id: 6,
-        picture: '/vdemo/avatars/13.jpg',
+        picture: '/vuero/avatars/13.jpg',
       },
       {
         id: 3,
@@ -124,11 +124,11 @@ export const topicList = [
     users: [
       {
         id: 28,
-        picture: '/vdemo/avatars/32.jpg',
+        picture: '/vuero/avatars/32.jpg',
       },
       {
         id: 20,
-        picture: '/vdemo/avatars/22.jpg',
+        picture: '/vuero/avatars/22.jpg',
       },
     ],
   },
@@ -141,15 +141,15 @@ export const topicList = [
     users: [
       {
         id: 10,
-        picture: '/vdemo/avatars/27.jpg',
+        picture: '/vuero/avatars/27.jpg',
       },
       {
         id: 16,
-        picture: '/vdemo/avatars/16.jpg',
+        picture: '/vuero/avatars/16.jpg',
       },
       {
         id: 25,
-        picture: '/vdemo/avatars/29.jpg',
+        picture: '/vuero/avatars/29.jpg',
       },
       {
         id: 100,

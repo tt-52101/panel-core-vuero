@@ -76,8 +76,8 @@ onMounted(async () => {
         <div class="dashboard-card is-company">
           <VAvatar
             size="big"
-            picture="/vdemo/photos/brands/udemy.svg"
-            picture-dark="/vdemo/photos/brands/udemy-dark.svg"
+            picture="/vuero/photos/brands/udemy.svg"
+            picture-dark="/vuero/photos/brands/udemy-dark.svg"
           >
             <template #badge>
               <button class="button icon-button is-circle is-dark-outlined">
@@ -341,7 +341,7 @@ onMounted(async () => {
                   :offset="[0, 10]"
                   placement="top-start"
                 >
-                  <VAvatar size="medium" picture="/vdemo/avatars/31.jpg" />
+                  <VAvatar size="medium" picture="/vuero/avatars/31.jpg" />
                   <template #content>
                     <UserPopoverContent :user="popovers.user31" />
                   </template>
@@ -368,7 +368,7 @@ onMounted(async () => {
                   :offset="[0, 10]"
                   placement="top-start"
                 >
-                  <VAvatar size="medium" picture="/vdemo/avatars/23.jpg" />
+                  <VAvatar size="medium" picture="/vuero/avatars/23.jpg" />
                   <template #content>
                     <UserPopoverContent :user="popovers.user23" />
                   </template>
@@ -395,7 +395,7 @@ onMounted(async () => {
                   :offset="[0, 10]"
                   placement="top-start"
                 >
-                  <VAvatar size="medium" picture="/vdemo/avatars/32.jpg" />
+                  <VAvatar size="medium" picture="/vuero/avatars/32.jpg" />
                   <template #content>
                     <UserPopoverContent :user="popovers.user32" />
                   </template>
@@ -422,7 +422,7 @@ onMounted(async () => {
                   :offset="[0, 10]"
                   placement="top-start"
                 >
-                  <VAvatar size="medium" picture="/vdemo/avatars/13.jpg" />
+                  <VAvatar size="medium" picture="/vuero/avatars/13.jpg" />
                   <template #content>
                     <UserPopoverContent :user="popovers.user13" />
                   </template>

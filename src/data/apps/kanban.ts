@@ -9,7 +9,7 @@ export const tasks = reactive([
     participants: [
       {
         color: 'warning',
-        picture: '/vdemo/avatars/7.jpg',
+        picture: '/vuero/avatars/7.jpg',
       },
     ],
   },
@@ -33,15 +33,15 @@ export const tasks = reactive([
     participants: [
       {
         color: 'danger',
-        picture: '/vdemo/avatars/12.jpg',
+        picture: '/vuero/avatars/12.jpg',
       },
       {
         color: undefined,
-        picture: '/vdemo/avatars/26.jpg',
+        picture: '/vuero/avatars/26.jpg',
       },
       {
         color: undefined,
-        picture: '/vdemo/avatars/19.jpg',
+        picture: '/vuero/avatars/19.jpg',
       },
     ],
   },
@@ -53,7 +53,7 @@ export const tasks = reactive([
     participants: [
       {
         color: 'success',
-        picture: '/vdemo/avatars/13.jpg',
+        picture: '/vuero/avatars/13.jpg',
       },
     ],
   },
@@ -65,7 +65,7 @@ export const tasks = reactive([
     participants: [
       {
         color: 'info',
-        picture: '/vdemo/avatars/16.jpg',
+        picture: '/vuero/avatars/16.jpg',
       },
     ],
   },
@@ -89,7 +89,7 @@ export const tasks = reactive([
     participants: [
       {
         color: 'success',
-        picture: '/vdemo/avatars/12.jpg',
+        picture: '/vuero/avatars/12.jpg',
       },
     ],
   },
@@ -101,10 +101,10 @@ export const tasks = reactive([
     participants: [
       {
         color: 'danger',
-        picture: '/vdemo/avatars/18.jpg',
+        picture: '/vuero/avatars/18.jpg',
       },
       {
-        picture: '/vdemo/avatars/9.jpg',
+        picture: '/vuero/avatars/9.jpg',
       },
     ],
   },
@@ -116,7 +116,7 @@ export const tasks = reactive([
     participants: [
       {
         color: 'primary',
-        picture: '/vdemo/avatars/13.jpg',
+        picture: '/vuero/avatars/13.jpg',
       },
     ],
   },
@@ -128,7 +128,7 @@ export const tasks = reactive([
     participants: [
       {
         color: 'warning',
-        picture: '/vdemo/avatars/16.jpg',
+        picture: '/vuero/avatars/16.jpg',
       },
     ],
   },

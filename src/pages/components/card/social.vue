@@ -47,7 +47,7 @@ useHead({
         <VCardSocial
           title="Featured Tweet"
           network="twitter"
-          avatar="/vdemo/avatars/19.jpg"
+          avatar="/vuero/avatars/19.jpg"
           username="@gretak"
           :hashtags="['#bulmaio', '#css', '#responsive']"
           share-label="Retweet"
@@ -64,7 +64,7 @@ useHead({
         <VCardSocial
           title="Featured Story"
           network="instagram"
-          avatar="/vdemo/avatars/5.jpg"
+          avatar="/vuero/avatars/5.jpg"
           username="Mary L."
           :hashtags="['#bulmaio', '#css', '#responsive']"
         >
@@ -79,7 +79,7 @@ useHead({
         <VCardSocial
           title="Featured Post"
           network="facebook"
-          avatar="/vdemo/avatars/36.jpg"
+          avatar="/vuero/avatars/36.jpg"
           username="Benoit L."
           :hashtags="['#bulmaio', '#css', '#responsive']"
         >
