@@ -54,7 +54,7 @@ useHead({
               >
                 <template #image>
                   <VAvatar
-                    picture="/vuero/avatars/22.jpg"
+                    picture="/demo/avatars/22.jpg"
                     badge="/images/icons/flags/united-states-of-america.svg"
                   />
                 </template>

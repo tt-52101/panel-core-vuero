@@ -266,7 +266,7 @@ import {
                       :offset="[0, 10]"
                       placement="bottom-end"
                     >
-                      <VAvatar picture="/vuero/avatars/18.jpg" size="small" />
+                      <VAvatar picture="/demo/avatars/18.jpg" size="small" />
                       <template #content>
                         <UserPopoverContent :user="popovers.user18" />
                       </template>
@@ -294,7 +294,7 @@ import {
                       :offset="[0, 10]"
                       placement="bottom-end"
                     >
-                      <VAvatar picture="/vuero/avatars/7.jpg" size="small" />
+                      <VAvatar picture="/demo/avatars/7.jpg" size="small" />
                       <template #content>
                         <UserPopoverContent :user="popovers.user7" />
                       </template>

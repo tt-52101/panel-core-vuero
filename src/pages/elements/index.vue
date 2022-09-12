@@ -20,7 +20,7 @@ useHead({
             <VAvatar
               size="xl"
               picture="/images/avatars/svg/vuero-1.svg"
-              badge="/vuero/photos/misc/buoy.jpg"
+              badge="/demo/photos/misc/buoy.jpg"
             />
 
             <h3 class="title is-4 is-narrow is-thin">Vuero Elements</h3>

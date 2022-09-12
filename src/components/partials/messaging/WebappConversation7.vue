@@ -17,7 +17,7 @@ const emit = defineEmits(['toggleMobileConversation'])
       <div class="chat-area-group">
         <img
           class="chat-area-profile"
-          src="/vuero/avatars/18.jpg"
+          src="/demo/avatars/18.jpg"
           alt=""
           data-user-popover="7"
           @error.once="(event) => onceImageErrored(event, '150x150')"
@@ -29,7 +29,7 @@ const emit = defineEmits(['toggleMobileConversation'])
         <div class="chat-msg-profile">
           <img
             class="chat-msg-img"
-            src="/vuero/avatars/18.jpg"
+            src="/demo/avatars/18.jpg"
             alt=""
             data-user-popover="7"
           />
@@ -39,21 +39,21 @@ const emit = defineEmits(['toggleMobileConversation'])
           <div class="chat-msg-text">Look at those screens, just finished them.</div>
           <div class="chat-msg-text">
             <img
-              src="/vuero/photos/apps/4.png"
+              src="/demo/photos/apps/4.png"
               alt=""
               @error.once="(event) => onceImageErrored(event, '400x300')"
             />
           </div>
           <div class="chat-msg-text">
             <img
-              src="/vuero/photos/apps/7.png"
+              src="/demo/photos/apps/7.png"
               alt=""
               @error.once="(event) => onceImageErrored(event, '400x300')"
             />
           </div>
           <div class="chat-msg-text">
             <img
-              src="/vuero/photos/apps/6.png"
+              src="/demo/photos/apps/6.png"
               alt=""
               @error.once="(event) => onceImageErrored(event, '400x300')"
             />

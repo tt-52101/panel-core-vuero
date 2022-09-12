@@ -128,7 +128,7 @@ import { popovers } from '/@src/data/users/userPopovers'
                 :offset="[0, 40]"
                 placement="top-end"
               >
-                <VAvatar picture="/vuero/avatars/21.jpg" />
+                <VAvatar picture="/demo/avatars/21.jpg" />
                 <template #content>
                   <UserPopoverContent :user="popovers.user21" />
                 </template>
@@ -154,7 +154,7 @@ import { popovers } from '/@src/data/users/userPopovers'
                 :offset="[0, 40]"
                 placement="top-end"
               >
-                <VAvatar picture="/vuero/avatars/7.jpg" />
+                <VAvatar picture="/demo/avatars/7.jpg" />
                 <template #content>
                   <UserPopoverContent :user="popovers.user7" />
                 </template>
@@ -181,7 +181,7 @@ import { popovers } from '/@src/data/users/userPopovers'
                 :offset="[0, 40]"
                 placement="top-end"
               >
-                <VAvatar picture="/vuero/avatars/31.jpg" />
+                <VAvatar picture="/demo/avatars/31.jpg" />
                 <template #content>
                   <UserPopoverContent :user="popovers.user31" />
                 </template>

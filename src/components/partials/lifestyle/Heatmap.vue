@@ -7,7 +7,7 @@ import { onceImageErrored } from '/@src/utils/via-placeholder'
     <div class="heatmap-title">
       <div class="title-avatar">
         <img
-          src="/vuero/photos/faces/girl1.jpg"
+          src="/demo/photos/faces/girl1.jpg"
           alt=""
           @error.once="(event) => onceImageErrored(event, '150x150')"
         />

@@ -30,7 +30,7 @@ const topicList = dashboardData.topicList as any[]
           <div class="column is-3">
             <div
               v-background="{
-                src: '/vuero/photos/dashboards/lifestyle/1.jpg',
+                src: '/demo/photos/dashboards/lifestyle/1.jpg',
                 placeholder: 'https://via.placeholder.com/800x600',
               }"
               class="long-card has-background-image"
@@ -53,7 +53,7 @@ const topicList = dashboardData.topicList as any[]
           <div class="column is-3">
             <div
               v-background="{
-                src: '/vuero/photos/dashboards/lifestyle/2.jpg',
+                src: '/demo/photos/dashboards/lifestyle/2.jpg',
                 placeholder: 'https://via.placeholder.com/800x600',
               }"
               class="long-card has-background-image"
@@ -76,7 +76,7 @@ const topicList = dashboardData.topicList as any[]
           <div class="column is-3">
             <div
               v-background="{
-                src: '/vuero/photos/dashboards/lifestyle/3.jpg',
+                src: '/demo/photos/dashboards/lifestyle/3.jpg',
                 placeholder: 'https://via.placeholder.com/800x600',
               }"
               class="long-card has-background-image"
@@ -99,7 +99,7 @@ const topicList = dashboardData.topicList as any[]
           <div class="column is-3">
             <div
               v-background="{
-                src: '/vuero/photos/dashboards/lifestyle/4.jpg',
+                src: '/demo/photos/dashboards/lifestyle/4.jpg',
                 placeholder: 'https://via.placeholder.com/800x600',
               }"
               class="long-card has-background-image"
@@ -131,7 +131,7 @@ const topicList = dashboardData.topicList as any[]
               <div class="inner-list">
                 <VBlock title="Extreme Foot Trekk" subtitle="Oct 31, 2020" center>
                   <template #icon>
-                    <VAvatar picture="/vuero/photos/dashboards/lifestyle/1.jpg" squared />
+                    <VAvatar picture="/demo/photos/dashboards/lifestyle/1.jpg" squared />
                   </template>
                   <template #action>
                     <div class="rating">
@@ -147,7 +147,7 @@ const topicList = dashboardData.topicList as any[]
 
                 <VBlock title="Rafting trip" subtitle="Oct 30, 2020" center>
                   <template #icon>
-                    <VAvatar picture="/vuero/photos/dashboards/lifestyle/2.jpg" squared />
+                    <VAvatar picture="/demo/photos/dashboards/lifestyle/2.jpg" squared />
                   </template>
                   <template #action>
                     <div class="rating">
@@ -163,7 +163,7 @@ const topicList = dashboardData.topicList as any[]
 
                 <VBlock title="Climbing Group [Pro]" subtitle="Oct 31, 2020" center>
                   <template #icon>
-                    <VAvatar picture="/vuero/photos/dashboards/lifestyle/3.jpg" squared />
+                    <VAvatar picture="/demo/photos/dashboards/lifestyle/3.jpg" squared />
                   </template>
                   <template #action>
                     <div class="rating">
@@ -179,7 +179,7 @@ const topicList = dashboardData.topicList as any[]
 
                 <VBlock title="Bicycle Madness Trek" subtitle="Oct 31, 2020" center>
                   <template #icon>
-                    <VAvatar picture="/vuero/photos/dashboards/lifestyle/4.jpg" squared />
+                    <VAvatar picture="/demo/photos/dashboards/lifestyle/4.jpg" squared />
                   </template>
                   <template #action>
                     <div class="rating">
@@ -211,7 +211,7 @@ const topicList = dashboardData.topicList as any[]
               <div class="inner-list">
                 <VBlock title="Extreme Triathlon" subtitle="Nov 2, 2020" center>
                   <template #icon>
-                    <VAvatar picture="/vuero/photos/dashboards/lifestyle/5.jpg" squared />
+                    <VAvatar picture="/demo/photos/dashboards/lifestyle/5.jpg" squared />
                   </template>
                   <template #action>
                     <div class="rating">
@@ -227,7 +227,7 @@ const topicList = dashboardData.topicList as any[]
 
                 <VBlock title="Group Running" subtitle="Oct 29, 2020" center>
                   <template #icon>
-                    <VAvatar picture="/vuero/photos/dashboards/lifestyle/6.jpg" squared />
+                    <VAvatar picture="/demo/photos/dashboards/lifestyle/6.jpg" squared />
                   </template>
                   <template #action>
                     <div class="rating">
@@ -243,7 +243,7 @@ const topicList = dashboardData.topicList as any[]
 
                 <VBlock title="Suit Diving" subtitle="Oct 28, 2020" center>
                   <template #icon>
-                    <VAvatar picture="/vuero/photos/dashboards/lifestyle/7.jpg" squared />
+                    <VAvatar picture="/demo/photos/dashboards/lifestyle/7.jpg" squared />
                   </template>
                   <template #action>
                     <div class="rating">
@@ -259,7 +259,7 @@ const topicList = dashboardData.topicList as any[]
 
                 <VBlock title="Desert Trekk" subtitle="Oct 27, 2020" center>
                   <template #icon>
-                    <VAvatar picture="/vuero/photos/dashboards/lifestyle/7.jpg" squared />
+                    <VAvatar picture="/demo/photos/dashboards/lifestyle/7.jpg" squared />
                   </template>
                   <template #action>
                     <div class="rating">

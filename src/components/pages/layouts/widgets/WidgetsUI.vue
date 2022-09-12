@@ -78,7 +78,7 @@ import { onceImageErrored } from '/@src/utils/via-placeholder'
       <!--Widget-->
       <UIWidget class="video-widget">
         <template #body>
-          <UIWidgetMovie picture="/vuero/photos/widgets/1.jpg" views="38,274" />
+          <UIWidgetMovie picture="/demo/photos/widgets/1.jpg" views="38,274" />
         </template>
       </UIWidget>
 
@@ -231,7 +231,7 @@ import { onceImageErrored } from '/@src/utils/via-placeholder'
       <UIWidget class="image-widget">
         <template #body>
           <img
-            src="/vuero/photos/widgets/2.jpg"
+            src="/demo/photos/widgets/2.jpg"
             alt=""
             @error.once="(event) => onceImageErrored(event, '400x300')"
           />

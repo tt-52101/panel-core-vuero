@@ -57,7 +57,7 @@ const democheck = ref(['value_2'])
             <VBlock title="Delivery App Project" subtitle="Updated 30m ago" center>
               <template #icon>
                 <VAvatar
-                  picture="/vuero/photos/apps/1.jpg"
+                  picture="/demo/photos/apps/1.jpg"
                   badge="/images/icons/stacks/illustrator.svg"
                   size="medium"
                   squared
@@ -73,7 +73,7 @@ const democheck = ref(['value_2'])
             <VBlock title="Health and Fitness Dashboard" subtitle="Updated 5h ago" center>
               <template #icon>
                 <VAvatar
-                  picture="/vuero/photos/apps/2.png"
+                  picture="/demo/photos/apps/2.png"
                   badge="/images/icons/stacks/reactjs.svg"
                   size="medium"
                   squared
@@ -89,7 +89,7 @@ const democheck = ref(['value_2'])
             <VBlock title="Learning Tracker Dashboard" subtitle="Updated 7h ago" center>
               <template #icon>
                 <VAvatar
-                  picture="/vuero/photos/apps/3.png"
+                  picture="/demo/photos/apps/3.png"
                   badge="/images/icons/stacks/angular.svg"
                   size="medium"
                   squared
@@ -105,7 +105,7 @@ const democheck = ref(['value_2'])
             <VBlock title="Banking App Dashboard" subtitle="Updated 10h ago" center>
               <template #icon>
                 <VAvatar
-                  picture="/vuero/photos/apps/4.png"
+                  picture="/demo/photos/apps/4.png"
                   badge="/images/icons/stacks/js.svg"
                   size="medium"
                   squared
@@ -161,7 +161,7 @@ const democheck = ref(['value_2'])
               <li>
                 <div>
                   <Tippy class="has-help-cursor" interactive :offset="[0, 10]">
-                    <VAvatar picture="/vuero/avatars/18.jpg" />
+                    <VAvatar picture="/demo/avatars/18.jpg" />
                     <template #content>
                       <UserPopoverContent :user="popovers.user18" />
                     </template>
@@ -197,7 +197,7 @@ const democheck = ref(['value_2'])
               <li>
                 <div>
                   <Tippy class="has-help-cursor" interactive :offset="[0, 10]">
-                    <VAvatar picture="/vuero/avatars/13.jpg" />
+                    <VAvatar picture="/demo/avatars/13.jpg" />
                     <template #content>
                       <UserPopoverContent :user="popovers.user13" />
                     </template>

@@ -67,7 +67,7 @@ import { onceImageErrored } from '/@src/utils/via-placeholder'
                 <div class="experience-wrapper">
                   <div class="experience-item">
                     <img
-                      src="/vuero/photos/brands/airbnb.svg"
+                      src="/demo/photos/brands/airbnb.svg"
                       alt=""
                       @error.once="(event) => onceImageErrored(event, '150x150')"
                     />
@@ -83,7 +83,7 @@ import { onceImageErrored } from '/@src/utils/via-placeholder'
                   </div>
                   <div class="experience-item">
                     <img
-                      src="/vuero/photos/brands/facebook.svg"
+                      src="/demo/photos/brands/facebook.svg"
                       alt=""
                       @error.once="(event) => onceImageErrored(event, '150x150')"
                     />
@@ -99,7 +99,7 @@ import { onceImageErrored } from '/@src/utils/via-placeholder'
                   </div>
                   <div class="experience-item">
                     <img
-                      src="/vuero/photos/brands/atlassian.svg"
+                      src="/demo/photos/brands/atlassian.svg"
                       alt=""
                       @error.once="(event) => onceImageErrored(event, '150x150')"
                     />
@@ -115,7 +115,7 @@ import { onceImageErrored } from '/@src/utils/via-placeholder'
                   </div>
                   <div class="experience-item">
                     <img
-                      src="/vuero/photos/brands/github.svg"
+                      src="/demo/photos/brands/github.svg"
                       alt=""
                       @error.once="(event) => onceImageErrored(event, '150x150')"
                     />
@@ -245,9 +245,9 @@ import { onceImageErrored } from '/@src/utils/via-placeholder'
                     </div>
                     <div class="people">
                       <VAvatar size="small" initials="BT" color="warning" />
-                      <VAvatar size="small" picture="/vuero/avatars/18.jpg" />
+                      <VAvatar size="small" picture="/demo/avatars/18.jpg" />
                       <VAvatar size="small" initials="JD" color="info" />
-                      <VAvatar size="small" picture="/vuero/avatars/7.jpg" />
+                      <VAvatar size="small" picture="/demo/avatars/7.jpg" />
                       <VAvatar size="small" initials="38" />
                     </div>
                   </div>
@@ -261,10 +261,10 @@ import { onceImageErrored } from '/@src/utils/via-placeholder'
                       <span>4 years of experience</span>
                     </div>
                     <div class="people">
-                      <VAvatar size="small" picture="/vuero/avatars/21.jpg" />
+                      <VAvatar size="small" picture="/demo/avatars/21.jpg" />
                       <VAvatar size="small" initials="AT" color="success" />
-                      <VAvatar size="small" picture="/vuero/avatars/39.jpg" />
-                      <VAvatar size="small" picture="/vuero/avatars/23.jpg" />
+                      <VAvatar size="small" picture="/demo/avatars/39.jpg" />
+                      <VAvatar size="small" picture="/demo/avatars/23.jpg" />
                       <VAvatar size="small" initials="27" />
                     </div>
                   </div>
@@ -278,10 +278,10 @@ import { onceImageErrored } from '/@src/utils/via-placeholder'
                       <span>10+ years of experience</span>
                     </div>
                     <div class="people">
-                      <VAvatar size="small" picture="/vuero/avatars/38.jpg" />
-                      <VAvatar size="small" picture="/vuero/avatars/11.jpg" />
+                      <VAvatar size="small" picture="/demo/avatars/38.jpg" />
+                      <VAvatar size="small" picture="/demo/avatars/11.jpg" />
                       <VAvatar size="small" initials="SC" color="h-purple" />
-                      <VAvatar size="small" picture="/vuero/avatars/13.jpg" />
+                      <VAvatar size="small" picture="/demo/avatars/13.jpg" />
                       <VAvatar size="small" initials="19" />
                     </div>
                   </div>
@@ -295,10 +295,10 @@ import { onceImageErrored } from '/@src/utils/via-placeholder'
                       <span>10+ years of experience</span>
                     </div>
                     <div class="people">
-                      <VAvatar size="small" picture="/vuero/avatars/21.jpg" />
+                      <VAvatar size="small" picture="/demo/avatars/21.jpg" />
                       <VAvatar size="small" initials="SC" color="h-purple" />
-                      <VAvatar size="small" picture="/vuero/avatars/5.jpg" />
-                      <VAvatar size="small" picture="/vuero/avatars/7.jpg" />
+                      <VAvatar size="small" picture="/demo/avatars/5.jpg" />
+                      <VAvatar size="small" picture="/demo/avatars/7.jpg" />
                       <VAvatar size="small" initials="31" />
                     </div>
                   </div>
@@ -325,7 +325,7 @@ import { onceImageErrored } from '/@src/utils/via-placeholder'
                   <div class="recommendations-item">
                     <VAvatar
                       size="large"
-                      picture="/vuero/avatars/5.jpg"
+                      picture="/demo/avatars/5.jpg"
                       badge="/images/icons/flags/united-states-of-america.svg"
                     />
                     <h3 class="dark-inverted">Project Manager</h3>
@@ -343,7 +343,7 @@ import { onceImageErrored } from '/@src/utils/via-placeholder'
                   <div class="recommendations-item">
                     <VAvatar
                       size="large"
-                      picture="/vuero/avatars/18.jpg"
+                      picture="/demo/avatars/18.jpg"
                       badge="/images/icons/flags/united-states-of-america.svg"
                     />
 
@@ -419,7 +419,7 @@ import { onceImageErrored } from '/@src/utils/via-placeholder'
 
                   <!--Tool-->
                   <div class="tools-item">
-                    <VIconWrap picture="/vuero/photos/brands/jira.svg">
+                    <VIconWrap picture="/demo/photos/brands/jira.svg">
                       <template #after>
                         <VPeity
                           type="pie"
@@ -440,7 +440,7 @@ import { onceImageErrored } from '/@src/utils/via-placeholder'
 
                   <!--Tool-->
                   <div class="tools-item">
-                    <VIconWrap picture="/vuero/photos/brands/office.svg">
+                    <VIconWrap picture="/demo/photos/brands/office.svg">
                       <template #after>
                         <VPeity
                           type="pie"
@@ -475,7 +475,7 @@ import { onceImageErrored } from '/@src/utils/via-placeholder'
                   <!--People-->
                   <a href="#" class="people-item">
                     <VAvatar
-                      picture="/vuero/avatars/25.jpg"
+                      picture="/demo/avatars/25.jpg"
                       badge="/images/icons/stacks/js.svg"
                     />
 
@@ -488,7 +488,7 @@ import { onceImageErrored } from '/@src/utils/via-placeholder'
                   <!--People-->
                   <a href="#" class="people-item">
                     <VAvatar
-                      picture="/vuero/avatars/29.jpg"
+                      picture="/demo/avatars/29.jpg"
                       badge="/images/icons/stacks/python.svg"
                     />
 
@@ -501,7 +501,7 @@ import { onceImageErrored } from '/@src/utils/via-placeholder'
                   <!--People-->
                   <a href="#" class="people-item">
                     <VAvatar
-                      picture="/vuero/avatars/38.jpg"
+                      picture="/demo/avatars/38.jpg"
                       badge="/images/icons/stacks/vuejs.svg"
                     />
 
@@ -514,7 +514,7 @@ import { onceImageErrored } from '/@src/utils/via-placeholder'
                   <!--People-->
                   <a href="#" class="people-item">
                     <VAvatar
-                      picture="/vuero/avatars/28.jpg"
+                      picture="/demo/avatars/28.jpg"
                       badge="/images/icons/stacks/angular.svg"
                     />
 
@@ -527,7 +527,7 @@ import { onceImageErrored } from '/@src/utils/via-placeholder'
                   <!--People-->
                   <a href="#" class="people-item">
                     <VAvatar
-                      picture="/vuero/avatars/19.jpg"
+                      picture="/demo/avatars/19.jpg"
                       badge="/images/icons/stacks/cplus.svg"
                     />
 

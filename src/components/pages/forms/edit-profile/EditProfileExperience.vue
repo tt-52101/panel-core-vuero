@@ -177,7 +177,7 @@ const onSave = async () => {
             <!--Experience Item-->
             <div class="setting-item">
               <img
-                src="/vuero/photos/brands/airbnb.svg"
+                src="/demo/photos/brands/airbnb.svg"
                 alt=""
                 @error.once="(event) => onceImageErrored(event, '50x50')"
               />
@@ -198,7 +198,7 @@ const onSave = async () => {
             <!--Experience Item-->
             <div class="setting-item">
               <img
-                src="/vuero/photos/brands/facebook.svg"
+                src="/demo/photos/brands/facebook.svg"
                 alt=""
                 @error.once="(event) => onceImageErrored(event, '50x50')"
               />
@@ -219,7 +219,7 @@ const onSave = async () => {
             <!--Experience Item-->
             <div class="setting-item">
               <img
-                src="/vuero/photos/brands/atlassian.svg"
+                src="/demo/photos/brands/atlassian.svg"
                 alt=""
                 @error.once="(event) => onceImageErrored(event, '50x50')"
               />
@@ -240,7 +240,7 @@ const onSave = async () => {
             <!--Experience Item-->
             <div class="setting-item">
               <img
-                src="/vuero/photos/brands/github.svg"
+                src="/demo/photos/brands/github.svg"
                 alt=""
                 @error.once="(event) => onceImageErrored(event, '50x50')"
               />
@@ -261,7 +261,7 @@ const onSave = async () => {
             <!--Experience Item-->
             <div class="setting-item">
               <img
-                src="/vuero/photos/brands/slack.svg"
+                src="/demo/photos/brands/slack.svg"
                 alt=""
                 @error.once="(event) => onceImageErrored(event, '50x50')"
               />
@@ -282,7 +282,7 @@ const onSave = async () => {
             <!--Experience Item-->
             <div class="setting-item">
               <img
-                src="/vuero/photos/brands/gitlab.svg"
+                src="/demo/photos/brands/gitlab.svg"
                 alt=""
                 @error.once="(event) => onceImageErrored(event, '50x50')"
               />

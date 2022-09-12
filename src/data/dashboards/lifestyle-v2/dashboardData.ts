@@ -1,19 +1,19 @@
 export const avatarStack1 = [
   {
     id: 12,
-    picture: '/vuero/avatars/12.jpg',
+    picture: '/demo/avatars/12.jpg',
     initials: 'JS',
     color: 'info',
   },
   {
     id: 32,
-    picture: '/vuero/avatars/22.jpg',
+    picture: '/demo/avatars/22.jpg',
     initials: 'JH',
     color: 'success',
   },
   {
     id: 40,
-    picture: '/vuero/avatars/40.jpg',
+    picture: '/demo/avatars/40.jpg',
     initials: 'JM',
     color: 'warning',
   },
@@ -22,19 +22,19 @@ export const avatarStack1 = [
 export const avatarStack2 = [
   {
     id: 7,
-    picture: '/vuero/avatars/7.jpg',
+    picture: '/demo/avatars/7.jpg',
     initials: 'AC',
     color: 'info',
   },
   {
     id: 23,
-    picture: '/vuero/avatars/23.jpg',
+    picture: '/demo/avatars/23.jpg',
     initials: 'IV',
     color: 'success',
   },
   {
     id: 18,
-    picture: '/vuero/avatars/18.jpg',
+    picture: '/demo/avatars/18.jpg',
     initials: 'EC',
     color: 'warning',
   },
@@ -43,13 +43,13 @@ export const avatarStack2 = [
 export const avatarStack3 = [
   {
     id: 32,
-    picture: '/vuero/avatars/32.jpg',
+    picture: '/demo/avatars/32.jpg',
     initials: 'JK',
     color: 'info',
   },
   {
     id: 22,
-    picture: '/vuero/avatars/22.jpg',
+    picture: '/demo/avatars/22.jpg',
     initials: 'JH',
     color: 'success',
   },
@@ -64,19 +64,19 @@ export const avatarStack3 = [
 export const avatarStack4 = [
   {
     id: 27,
-    picture: '/vuero/avatars/27.jpg',
+    picture: '/demo/avatars/27.jpg',
     initials: 'CE',
     color: 'info',
   },
   {
     id: 16,
-    picture: '/vuero/avatars/16.jpg',
+    picture: '/demo/avatars/16.jpg',
     initials: 'JG',
     color: 'success',
   },
   {
     id: 29,
-    picture: '/vuero/avatars/29.jpg',
+    picture: '/demo/avatars/29.jpg',
     initials: 'HC',
     color: 'warning',
   },

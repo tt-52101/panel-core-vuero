@@ -97,12 +97,12 @@ We try to keep it mostly up to date, so you can always find the latest informati
 
 ### [Vuero on docs.cssninja.io](https://docs.cssninja.io/vuero?utm_source=readme)
 
-- [Setup your project](https://docs.cssninja.io/vuero/documentation/setup-your-project.html?utm_source=readme)
-- [Customizing Vuero](https://docs.cssninja.io/vuero/documentation/customizing-vuero.html?utm_source=readme)
-- [Going further](https://docs.cssninja.io/vuero/documentation/going-further.html?utm_source=readme)
-- [Common Issues](https://docs.cssninja.io/vuero/documentation/common-issues.html?utm_source=readme)
-- [Customer support](https://docs.cssninja.io/vuero/documentation/customer-support.html?utm_source=readme)
-- [Changelog](https://docs.cssninja.io/vuero/documentation/changelog.html?utm_source=readme)
+- [Setup your project](https://docs.cssninja.io/demo/documentation/setup-your-project.html?utm_source=readme)
+- [Customizing Vuero](https://docs.cssninja.io/demo/documentation/customizing-vuero.html?utm_source=readme)
+- [Going further](https://docs.cssninja.io/demo/documentation/going-further.html?utm_source=readme)
+- [Common Issues](https://docs.cssninja.io/demo/documentation/common-issues.html?utm_source=readme)
+- [Customer support](https://docs.cssninja.io/demo/documentation/customer-support.html?utm_source=readme)
+- [Changelog](https://docs.cssninja.io/demo/documentation/changelog.html?utm_source=readme)
 
 ### [cssninjaStudio on youtube.com](https://www.youtube.com/channel/UCySf97KnXg9IvVeSeEvF-wQ)
 
